@@ -1,0 +1,4538 @@
+[
+    {
+        "term": "%1 characters",
+        "definition": "%1 k\u00fd t\u1ef1",
+        "context": "%1 characters",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/NotepadTextEditor.qml:851",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "(Unnamed)",
+        "definition": "(Ch\u01b0a c\u00f3 t\u00ean)",
+        "context": "(Unnamed)",
+        "term_plural": "",
+        "reference": "Modules\/Dock\/DockContextMenu.qml:54, Modules\/DankBar\/Widgets\/AppsDockContextMenu.qml:185",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "24-Hour Format",
+        "definition": "\u0110\u1ecbnh d\u1ea1ng 24 gi\u1edd",
+        "context": "24-Hour Format",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:53",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "24-hour format",
+        "definition": "\u0110\u1ecbnh d\u1ea1ng 24 gi\u1edd",
+        "context": "24-hour format",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WallpaperTab.qml:1134",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "3rd party",
+        "definition": "b\u00ean th\u1ee9 3",
+        "context": "3rd party",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginBrowser.qml:529",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "A file with this name already exists. Do you want to overwrite it?",
+        "definition": "\u0110\u00e3 c\u00f3 t\u1ec7p tr\u00f9ng t\u00ean r\u1ed3i. B\u1ea1n c\u00f3 mu\u1ed1n ghi \u0111\u00e8 kh\u00f4ng?",
+        "context": "A file with this name already exists. Do you want to overwrite it?",
+        "term_plural": "",
+        "reference": "Modals\/FileBrowser\/FileBrowserOverwriteDialog.qml:61",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "About",
+        "definition": "Gi\u1edbi thi\u1ec7u",
+        "context": "About",
+        "term_plural": "",
+        "reference": "Modals\/Settings\/SettingsSidebar.qml:323, Modules\/Settings\/AboutTab.qml:576",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Access clipboard history",
+        "definition": "B\u1ea3ng nh\u1edb t\u1ea1m",
+        "context": "Access clipboard history",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:102",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Access to notifications and do not disturb",
+        "definition": "Th\u00f4ng b\u00e1o & Ch\u1ebf \u0111\u1ed9 kh\u00f4ng l\u00e0m phi\u1ec1n",
+        "context": "Access to notifications and do not disturb",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:170",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Access to system controls and settings",
+        "definition": "C\u00e0i \u0111\u1eb7t & \u0110i\u1ec1u khi\u1ec3n h\u1ec7 th\u1ed1ng",
+        "context": "Access to system controls and settings",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:163",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Actions",
+        "definition": "Thao t\u00e1c",
+        "context": "Actions",
+        "term_plural": "",
+        "reference": "Widgets\/DankIconPicker.qml:51",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Add",
+        "definition": "Th\u00eam",
+        "context": "Add",
+        "term_plural": "",
+        "reference": "Widgets\/KeybindItem.qml:1830, Modules\/Plugins\/ListSettingWithInput.qml:126, Modules\/Settings\/DesktopWidgetsTab.qml:152",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Add Widget",
+        "definition": "Th\u00eam ti\u1ec7n \u00edch",
+        "context": "Add Widget",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTabSection.qml:824, Modules\/Settings\/WidgetSelectionPopup.qml:97, Modules\/Settings\/DesktopWidgetsTab.qml:95, Modules\/ControlCenter\/Components\/EditControls.qml:131, Modules\/ControlCenter\/Components\/EditControls.qml:238",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "All",
+        "definition": "T\u1ea5t c\u1ea3",
+        "context": "All",
+        "term_plural": "",
+        "reference": "Modals\/ProcessListModal.qml:377, Services\/AppSearchService.qml:698, Services\/AppSearchService.qml:719, dms-plugins\/DankStickerSearch\/DankStickerSearch.qml:101, Modals\/DankLauncherV2\/Controller.qml:662, Modals\/DankLauncherV2\/LauncherContent.qml:348, Modals\/DankLauncherV2\/LauncherContent.qml:624, Modules\/ProcessList\/ProcessListPopout.qml:155, Modules\/Settings\/WidgetsTabSection.qml:2496, Modules\/Settings\/WidgetsTabSection.qml:2550, Modules\/Settings\/KeybindsTab.qml:410, Modules\/Settings\/DisplayConfig\/NiriOutputSettings.qml:94, Modules\/Settings\/DisplayConfig\/NiriOutputSettings.qml:97, Modules\/Settings\/DisplayConfig\/NiriOutputSettings.qml:109, Modules\/Notifications\/Center\/HistoryNotificationList.qml:87",
+        "comment": "notification history filter",
+        "fuzzy": 0
+    },
+    {
+        "term": "All displays",
+        "definition": "T\u1ea5t c\u1ea3 m\u00e0n h\u00ecnh",
+        "context": "All displays",
+        "term_plural": "",
+        "reference": "Modules\/Plugins\/PluginSettings.qml:255, Modules\/Settings\/DisplayWidgetsTab.qml:401, Modules\/Settings\/DankBarTab.qml:313, Modules\/Settings\/DankBarTab.qml:508, Modules\/Settings\/Widgets\/SettingsDisplayPicker.qml:43",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Alt+\u2190\/Backspace: Back \u2022 F1\/I: File Info \u2022 F10: Help \u2022 Esc: Close",
+        "definition": "Alt+\u2190\/Backspace: Quay l\u1ea1i \u2022 F1\/I: Th\u00f4ng tin t\u1ec7p \u2022 F10: Tr\u1ee3 gi\u00fap \u2022 Esc: \u0110\u00f3ng",
+        "context": "Alt+\u2190\/Backspace: Back \u2022 F1\/I: File Info \u2022 F10: Help \u2022 Esc: Close",
+        "term_plural": "",
+        "reference": "Modals\/FileBrowser\/KeyboardHints.qml:35",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Animation Speed",
+        "definition": "T\u1ed1c \u0111\u1ed9 \u1ea3nh \u0111\u1ed9ng",
+        "context": "Animation Speed",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TypographyMotionTab.qml:197, Modules\/Settings\/NotificationsTab.qml:316",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "App Launcher",
+        "definition": "Tr\u00ecnh kh\u1edfi ch\u1ea1y",
+        "context": "App Launcher",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:45",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Applications",
+        "definition": "\u1ee8ng d\u1ee5ng",
+        "context": "Applications",
+        "term_plural": "",
+        "reference": "Modals\/DankLauncherV2\/Controller.qml:153, Modules\/Settings\/ThemeColorsTab.qml:2257, Modules\/Dock\/DockLauncherButton.qml:25",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Apply GTK Colors",
+        "definition": "\u00c1p d\u1ee5ng m\u00e0u GTK",
+        "context": "Apply GTK Colors",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:2938",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Apply Qt Colors",
+        "definition": "\u00c1p d\u1ee5ng m\u00e0u Qt",
+        "context": "Apply Qt Colors",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:2972",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Apps Icon",
+        "definition": "Bi\u1ec3u t\u01b0\u1ee3ng",
+        "context": "Apps Icon",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:266, Modules\/Settings\/LauncherTab.qml:59",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Apps are ordered by usage frequency, then last used, then alphabetically.",
+        "definition": "Th\u1ee9 t\u1ef1 s\u1eafp x\u1ebfp: t\u1ea7n su\u1ea5t s\u1eed d\u1ee5ng \u2192 d\u00f9ng g\u1ea7n nh\u1ea5t \u2192 b\u1ea3ng ch\u1eef c\u00e1i",
+        "context": "Apps are ordered by usage frequency, then last used, then alphabetically.",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/LauncherTab.qml:1177",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Audio Codec",
+        "definition": "Codec \u00e2m thanh",
+        "context": "Audio Codec",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Details\/BluetoothDetail.qml:644",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Audio Codec Selection",
+        "definition": "Ch\u1ecdn codec \u00e2m thanh",
+        "context": "Audio Codec Selection",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Details\/BluetoothCodecSelector.qml:210",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Audio Devices",
+        "definition": "Thi\u1ebft b\u1ecb \u00e2m thanh",
+        "context": "Audio Devices",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Details\/AudioOutputDetail.qml:37",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Audio Output Devices (",
+        "definition": "Thi\u1ebft b\u1ecb \u0111\u1ea7u ra \u00e2m thanh (",
+        "context": "Audio Output Devices (",
+        "term_plural": "",
+        "reference": "Modules\/DankDash\/MediaDropdownOverlay.qml:275",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Auto Location",
+        "definition": "V\u1ecb tr\u00ed t\u1ef1 \u0111\u1ed9ng",
+        "context": "Auto Location",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:458",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Auto-hide",
+        "definition": "T\u1ef1 \u0111\u1ed9ng \u1ea9n",
+        "context": "Auto-hide",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DankBarTab.qml:596",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Auto-hide Dock",
+        "definition": "T\u1ef1 \u0111\u1ed9ng \u1ea9n thanh dock",
+        "context": "Auto-hide Dock",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:51",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Auto-saving...",
+        "definition": "\u0110ang t\u1ef1 \u0111\u1ed9ng l\u01b0u...",
+        "context": "Auto-saving...",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/NotepadTextEditor.qml:870",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Automatic Control",
+        "definition": "\u0110i\u1ec1u khi\u1ec3n t\u1ef1 \u0111\u1ed9ng",
+        "context": "Automatic Control",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:1055, Modules\/Settings\/GammaControlTab.qml:139",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Automatic Cycling",
+        "definition": "Lu\u00e2n phi\u00ean t\u1ef1 \u0111\u1ed9ng",
+        "context": "Automatic Cycling",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WallpaperTab.qml:907, Modules\/Settings\/LockScreenTab.qml:336",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Automatically cycle through wallpapers in the same folder",
+        "definition": "T\u1ef1 \u0111\u1ed9ng chuy\u1ec3n h\u00ecnh n\u1ec1n trong c\u00f9ng m\u1ed9t th\u01b0 m\u1ee5c",
+        "context": "Automatically cycle through wallpapers in the same folder",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WallpaperTab.qml:908",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Automatically determine your location using your IP address",
+        "definition": "T\u1ef1 \u0111\u1ed9ng x\u00e1c \u0111\u1ecbnh v\u1ecb tr\u00ed qua \u0111\u1ecba ch\u1ec9 IP",
+        "context": "Automatically determine your location using your IP address",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:459",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Automatically lock after",
+        "definition": "T\u1ef1 \u0111\u1ed9ng kh\u00f3a sau",
+        "context": "Automatically lock after",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PowerSleepTab.qml:201",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Available",
+        "definition": "Kh\u1ea3 d\u1ee5ng",
+        "context": "Available",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PrinterTab.qml:202, Modules\/ControlCenter\/Details\/AudioInputDetail.qml:256, Modules\/ControlCenter\/Details\/AudioOutputDetail.qml:265",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Available Plugins",
+        "definition": "C\u00e1c plugin kh\u1ea3 d\u1ee5ng",
+        "context": "Available Plugins",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginsTab.qml:300",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Back",
+        "definition": "Quay l\u1ea1i",
+        "context": "Back",
+        "term_plural": "",
+        "reference": "Modals\/Greeter\/GreeterModal.qml:285, Modules\/DankBar\/Widgets\/SystemTrayBar.qml:1807",
+        "comment": "greeter back button",
+        "fuzzy": 0
+    },
+    {
+        "term": "Battery",
+        "definition": "Pin",
+        "context": "Battery",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTabSection.qml:1304, Modules\/Settings\/WidgetsTabSection.qml:1468, Modules\/Settings\/PowerSleepTab.qml:59, Modules\/Settings\/WidgetsTab.qml:176, Modules\/ControlCenter\/Models\/WidgetModel.qml:161, Modules\/ControlCenter\/Widgets\/BatteryPill.qml:17",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Battery level and power management",
+        "definition": "Pin & qu\u1ea3n l\u00fd ngu\u1ed3n",
+        "context": "Battery level and power management",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:177",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Bluetooth Settings",
+        "definition": "C\u00e0i \u0111\u1eb7t bluetooth",
+        "context": "Bluetooth Settings",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Details\/BluetoothDetail.qml:96",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Border",
+        "definition": "Vi\u1ec1n",
+        "context": "Border",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:644, Modules\/Settings\/DockTab.qml:650, Modules\/Settings\/LauncherTab.qml:434, Modules\/Settings\/DankBarTab.qml:1170",
+        "comment": "launcher border option",
+        "fuzzy": 0
+    },
+    {
+        "term": "Brightness",
+        "definition": "\u0110\u1ed9 s\u00e1ng",
+        "context": "Brightness",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTabSection.qml:1289, Modules\/Settings\/WidgetsTabSection.qml:1468, Modules\/Settings\/DockTab.qml:484, Modules\/Settings\/LauncherTab.qml:276, Modules\/Settings\/OSDTab.qml:117",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Browse",
+        "definition": "Duy\u1ec7t",
+        "context": "Browse",
+        "term_plural": "",
+        "reference": "Modals\/DankLauncherV2\/Controller.qml:160, Modals\/DankLauncherV2\/Controller.qml:1235, Modules\/Settings\/ThemeColorsTab.qml:289, Modules\/Settings\/GreeterTab.qml:683, Modules\/Settings\/PluginsTab.qml:209, Modules\/Settings\/LockScreenTab.qml:327",
+        "comment": "theme category option",
+        "fuzzy": 0
+    },
+    {
+        "term": "Browse Plugins",
+        "definition": "Duy\u1ec7t plugin",
+        "context": "Browse Plugins",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginBrowser.qml:147, Modules\/Settings\/PluginBrowser.qml:257, Modules\/Settings\/DesktopWidgetsTab.qml:101",
+        "comment": "plugin browser header | plugin browser window title",
+        "fuzzy": 0
+    },
+    {
+        "term": "CPU",
+        "definition": "CPU",
+        "context": "CPU",
+        "term_plural": "",
+        "reference": "Modules\/ProcessList\/SystemView.qml:76, Modules\/Settings\/DesktopWidgetSettings\/SystemMonitorSettings.qml:86",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "CPU Temperature",
+        "definition": "Nhi\u1ec7t \u0111\u1ed9 CPU",
+        "context": "CPU Temperature",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:132, Modules\/Settings\/DesktopWidgetSettings\/SystemMonitorSettings.qml:108",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "CPU Usage",
+        "definition": "M\u1ee9c s\u1eed d\u1ee5ng CPU",
+        "context": "CPU Usage",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:108",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "CPU temperature display",
+        "definition": "Nhi\u1ec7t \u0111\u1ed9 CPU",
+        "context": "CPU temperature display",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:133",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "CPU usage indicator",
+        "definition": "Ch\u1ec9 b\u00e1o m\u1ee9c s\u1eed d\u1ee5ng CPU",
+        "context": "CPU usage indicator",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:109",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Cancel",
+        "definition": "Th\u00f4i",
+        "context": "Cancel",
+        "term_plural": "",
+        "reference": "DMSShell.qml:378, Modals\/WindowRuleModal.qml:1130, Modals\/WorkspaceRenameModal.qml:161, Modals\/BluetoothPairingModal.qml:272, Modals\/PolkitAuthModal.qml:354, Modals\/WifiPasswordModal.qml:691, Widgets\/KeybindItem.qml:1814, Modals\/DankLauncherV2\/LauncherContent.qml:1033, Modals\/FileBrowser\/FileBrowserOverwriteDialog.qml:83, Modules\/Settings\/PluginBrowser.qml:122, Modules\/Settings\/PluginBrowser.qml:832, Modules\/Settings\/GreeterTab.qml:180, Modules\/Settings\/ThemeBrowser.qml:121, Modules\/Settings\/DisplayConfigTab.qml:256, Modules\/Settings\/DisplayConfigTab.qml:301, Modules\/Settings\/AudioTab.qml:726, Modules\/DankBar\/Popouts\/SystemUpdatePopout.qml:189",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Capacity",
+        "definition": "Dung l\u01b0\u1ee3ng",
+        "context": "Capacity",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Details\/BatteryDetail.qml:177, Modules\/DankBar\/Popouts\/BatteryPopout.qml:333, Modules\/DankBar\/Popouts\/BatteryPopout.qml:491",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Center Section",
+        "definition": "Ph\u1ea7n trung t\u00e2m",
+        "context": "Center Section",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:1037",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Check for system updates",
+        "definition": "Ki\u1ec3m tra c\u1eadp nh\u1eadt h\u1ec7 th\u1ed1ng",
+        "context": "Check for system updates",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:247",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Choose Launcher Logo Color",
+        "definition": "Ch\u1ecdn m\u00e0u logo tr\u00ecnh kh\u1edfi ch\u1ea1y",
+        "context": "Choose Launcher Logo Color",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/LauncherTab.qml:242",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Choose icon",
+        "definition": "Ch\u1ecdn bi\u1ec3u t\u01b0\u1ee3ng",
+        "context": "Choose icon",
+        "term_plural": "",
+        "reference": "Widgets\/DankIconPicker.qml:100",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Choose the logo displayed on the launcher button in DankBar",
+        "definition": "Ch\u1ecdn logo hi\u1ec3n th\u1ecb tr\u00ean n\u00fat tr\u00ecnh kh\u1edfi ch\u1ea1y (thanh Dank)",
+        "context": "Choose the logo displayed on the launcher button in DankBar",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/LauncherTab.qml:41",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Choose where notification popups appear on screen",
+        "definition": "Ch\u1ecdn n\u01a1i h\u1ed9p th\u00f4ng b\u00e1o n\u1ed5i \u0111\u01b0\u1ee3c hi\u1ec3n th\u1ecb",
+        "context": "Choose where notification popups appear on screen",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/NotificationsTab.qml:213",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Clear",
+        "definition": "X\u00f3a",
+        "context": "Clear",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PrinterTab.qml:1386, Modules\/Notifications\/Center\/NotificationHeader.qml:148",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Clear All",
+        "definition": "X\u00f3a h\u1ebft",
+        "context": "Clear All",
+        "term_plural": "",
+        "reference": "Modals\/Clipboard\/ClipboardHeader.qml:76, Modals\/Clipboard\/ClipboardHistoryPopout.qml:148, Modals\/Clipboard\/ClipboardHistoryModal.qml:146, Modules\/Settings\/PrinterTab.qml:1370, Modules\/DankBar\/Widgets\/ClipboardButton.qml:254",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Clipboard History",
+        "definition": "B\u1ea3n nh\u1edb t\u1ea1m",
+        "context": "Clipboard History",
+        "term_plural": "",
+        "reference": "Modals\/Clipboard\/ClipboardHeader.qml:34",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Clipboard Manager",
+        "definition": "Tr\u00ecnh qu\u1ea3n l\u00fd b\u1ea3ng nh\u1edb t\u1ea1m",
+        "context": "Clipboard Manager",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:101",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Clock",
+        "definition": "\u0110\u1ed3ng h\u1ed3",
+        "context": "Clock",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:80",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Close",
+        "definition": "\u0110\u00f3ng",
+        "context": "Close",
+        "term_plural": "",
+        "reference": "Modals\/NetworkWiredInfoModal.qml:129, Modals\/MuxModal.qml:594, Modals\/NetworkInfoModal.qml:129, Modules\/DankBar\/Popouts\/SystemUpdatePopout.qml:237, Modules\/DankBar\/Widgets\/RunningApps.qml:882",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Color Override",
+        "definition": "Ghi \u0111\u00e8 m\u00e0u",
+        "context": "Color Override",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:367, Modules\/Settings\/LauncherTab.qml:159",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Color Picker",
+        "definition": "B\u1ed9 ch\u1ecdn m\u00e0u",
+        "context": "Color Picker",
+        "term_plural": "",
+        "reference": "Services\/AppSearchService.qml:201, Modules\/Settings\/WidgetsTab.qml:239, Modules\/ControlCenter\/Models\/WidgetModel.qml:179, Modules\/ControlCenter\/Widgets\/ColorPickerPill.qml:13",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Color temperature for night mode",
+        "definition": "Nhi\u1ec7t \u0111\u1ed9 m\u00e0u cho ch\u1ebf \u0111\u1ed9 ban \u0111\u00eam",
+        "context": "Color temperature for night mode",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/GammaControlTab.qml:106",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Communication",
+        "definition": "Li\u00ean l\u1ea1c",
+        "context": "Communication",
+        "term_plural": "",
+        "reference": "Widgets\/DankIconPicker.qml:35",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Compact Mode",
+        "definition": "Ch\u1ebf \u0111\u1ed9 thu g\u1ecdn",
+        "context": "Compact Mode",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTabSection.qml:616, Modules\/Settings\/WidgetsTabSection.qml:2223",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Configure icons for named workspaces. Icons take priority over numbers when both are enabled.",
+        "definition": "C\u1ea5u h\u00ecnh bi\u1ec3u t\u01b0\u1ee3ng cho kh\u00f4ng gian l\u00e0m vi\u1ec7c c\u00f3 t\u00ean. N\u1ebfu b\u1eadt c\u1ea3 s\u1ed1 v\u00e0 bi\u1ec3u t\u01b0\u1ee3ng, bi\u1ec3u t\u01b0\u1ee3ng s\u1ebd \u0111\u01b0\u1ee3c \u01b0u ti\u00ean.",
+        "context": "Configure icons for named workspaces. Icons take priority over numbers when both are enabled.",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WorkspacesTab.qml:423",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Configure which displays show shell components",
+        "definition": "C\u1ea5u h\u00ecnh m\u00e0n h\u00ecnh hi\u1ec3n th\u1ecb c\u00e1c th\u00e0nh ph\u1ea7n shell",
+        "context": "Configure which displays show shell components",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DisplayWidgetsTab.qml:176",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Connect",
+        "definition": "K\u1ebft n\u1ed1i",
+        "context": "Connect",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:733, Modules\/ControlCenter\/Details\/BluetoothDetail.qml:616, Modules\/ControlCenter\/Details\/NetworkDetail.qml:782",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Connect to Wi-Fi",
+        "definition": "K\u1ebft n\u1ed1i WiFi",
+        "context": "Connect to Wi-Fi",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:337",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Connected Displays",
+        "definition": "M\u00e0n h\u00ecnh k\u1ebft n\u1ed1i",
+        "context": "Connected Displays",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DisplayWidgetsTab.qml:167",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Contrast",
+        "definition": "\u0110\u1ed9 t\u01b0\u01a1ng ph\u1ea3n",
+        "context": "Contrast",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:496, Modules\/Settings\/LauncherTab.qml:288",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Control Center",
+        "definition": "Trung t\u00e2m \u0111i\u1ec1u khi\u1ec3n",
+        "context": "Control Center",
+        "term_plural": "",
+        "reference": "Modals\/Greeter\/GreeterWelcomePage.qml:149, Modules\/Settings\/WidgetsTab.qml:162",
+        "comment": "greeter feature card title",
+        "fuzzy": 0
+    },
+    {
+        "term": "Control currently playing media",
+        "definition": "\u0110i\u1ec1u khi\u1ec3n ph\u01b0\u01a1ng ti\u1ec7n \u0111ang ph\u00e1t",
+        "context": "Control currently playing media",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:95",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Copied to clipboard",
+        "definition": "\u0110\u00e3 sao ch\u00e9p v\u00e0o b\u1ea3ng nh\u1edb t\u1ea1m",
+        "context": "Copied to clipboard",
+        "term_plural": "",
+        "reference": "Services\/ClipboardService.qml:108, dms-plugins\/DankStickerSearch\/DankStickerSearch.qml:230, dms-plugins\/DankLauncherKeys\/DankLauncherKeys.qml:154, dms-plugins\/DankGifSearch\/DankGifSearch.qml:175, Modals\/Settings\/SettingsModal.qml:315, Modals\/Settings\/SettingsModal.qml:332, Modules\/Notepad\/NotepadTextEditor.qml:259, Modules\/Settings\/DesktopWidgetInstanceCard.qml:426",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Copied!",
+        "definition": "\u0110\u00e3 sao ch\u00e9p!",
+        "context": "Copied!",
+        "term_plural": "",
+        "reference": "Modules\/Toast.qml:16",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Copy PID",
+        "definition": "Sao ch\u00e9p PID",
+        "context": "Copy PID",
+        "term_plural": "",
+        "reference": "Modules\/ProcessList\/ProcessContextMenu.qml:21",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Create Dir",
+        "definition": "T\u1ea1o th\u01b0 m\u1ee5c",
+        "context": "Create Dir",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginsTab.qml:231",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Critical Priority",
+        "definition": "\u01afu ti\u00ean kh\u1ea9n c\u1ea5p",
+        "context": "Critical Priority",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/NotificationsTab.qml:154, Modules\/Settings\/NotificationsTab.qml:785, Modules\/Settings\/NotificationsTab.qml:892, Modules\/Notifications\/Center\/NotificationSettings.qml:211, Modules\/Notifications\/Center\/NotificationSettings.qml:432",
+        "comment": "notification rule urgency option",
+        "fuzzy": 0
+    },
+    {
+        "term": "Current Items",
+        "definition": "M\u1ee5c hi\u1ec7n t\u1ea1i",
+        "context": "Current Items",
+        "term_plural": "",
+        "reference": "Modules\/Plugins\/ListSettingWithInput.qml:162",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Current time and date display",
+        "definition": "Ng\u00e0y & gi\u1edd hi\u1ec7n t\u1ea1i",
+        "context": "Current time and date display",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:81",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Current weather conditions and temperature",
+        "definition": "Th\u1eddi ti\u1ebft & nhi\u1ec7t \u0111\u1ed9 hi\u1ec7n t\u1ea1i",
+        "context": "Current weather conditions and temperature",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:88",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Custom",
+        "definition": "Tu\u1ef3 ch\u1ec9nh",
+        "context": "Custom",
+        "term_plural": "",
+        "reference": "Widgets\/KeybindItem.qml:1403, dms-plugins\/DankDesktopWeather\/DankDesktopWeatherSettings.qml:47, Modules\/Settings\/ThemeColorsTab.qml:289, Modules\/Settings\/ThemeColorsTab.qml:289, Modules\/Settings\/ThemeColorsTab.qml:1690, Modules\/Settings\/ThemeColorsTab.qml:1700, Modules\/Settings\/ThemeColorsTab.qml:1711, Modules\/Settings\/ThemeColorsTab.qml:1880, Modules\/Settings\/ThemeColorsTab.qml:1890, Modules\/Settings\/ThemeColorsTab.qml:1902, Modules\/Settings\/TypographyMotionTab.qml:212, Modules\/Settings\/TypographyMotionTab.qml:315, Modules\/Settings\/TypographyMotionTab.qml:399, Modules\/Settings\/DockTab.qml:282, Modules\/Settings\/DockTab.qml:389, Modules\/Settings\/LauncherTab.qml:75, Modules\/Settings\/LauncherTab.qml:181, Modules\/Settings\/DankBarTab.qml:1510, Modules\/Settings\/NotificationsTab.qml:337, Modules\/Settings\/Widgets\/SettingsColorPicker.qml:52, Modules\/Settings\/Widgets\/DeviceAliasRow.qml:92",
+        "comment": "blur border color | shadow color option | theme category option",
+        "fuzzy": 0
+    },
+    {
+        "term": "Custom Location",
+        "definition": "Tu\u1ef3 ch\u1ec9nh v\u1ecb tr\u00ed",
+        "context": "Custom Location",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:487",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Custom Transparency",
+        "definition": "Tu\u1ef3 ch\u1ec9nh \u0111\u1ed9 trong su\u1ed1t",
+        "context": "Custom Transparency",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/NotepadSettings.qml:324",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Custom: ",
+        "definition": "Tu\u1ef3 ch\u1ec9nh: ",
+        "context": "Custom: ",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/GreeterTab.qml:641, Modules\/Settings\/TimeWeatherTab.qml:170, Modules\/Settings\/TimeWeatherTab.qml:257",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Customizable empty space",
+        "definition": "Tu\u1ef3 ch\u1ec9nh kho\u1ea3ng tr\u1ed1ng",
+        "context": "Customizable empty space",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:205",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "DEMO MODE - Click anywhere to exit",
+        "definition": "CH\u1ebe \u0110\u1ed8 DEMO - B\u1ea5m v\u00e0o b\u1ea5t k\u1ef3 \u0111\u00e2u \u0111\u1ec3 tho\u00e1t",
+        "context": "DEMO MODE - Click anywhere to exit",
+        "term_plural": "",
+        "reference": "Modules\/Lock\/LockScreenContent.qml:1127",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "DMS Plugin Manager Unavailable",
+        "definition": "Tr\u00ecnh qu\u1ea3n l\u00fd plugin DMS kh\u00f4ng kh\u1ea3 d\u1ee5ng",
+        "context": "DMS Plugin Manager Unavailable",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginsTab.qml:115",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "DMS_SOCKET not available",
+        "definition": "DMS_SOCKET kh\u00f4ng kh\u1ea3 d\u1ee5ng",
+        "context": "DMS_SOCKET not available",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Components\/DragDropGrid.qml:221",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Daily at:",
+        "definition": "H\u00e0ng ng\u00e0y l\u00fac:",
+        "context": "Daily at:",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WallpaperTab.qml:1061",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Dank Bar",
+        "definition": "Thanh Dank",
+        "context": "Dank Bar",
+        "term_plural": "",
+        "reference": "Modals\/Settings\/SettingsSidebar.qml:109",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Date Format",
+        "definition": "\u0110\u1ecbnh d\u1ea1ng ng\u00e0y",
+        "context": "Date Format",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:84",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Default",
+        "definition": "M\u1eb7c \u0111\u1ecbnh",
+        "context": "Default",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:1508, Modules\/Settings\/DockTab.qml:389, Modules\/Settings\/LauncherTab.qml:181, Modules\/Settings\/NotificationsTab.qml:119, Modules\/Settings\/NotificationsTab.qml:142",
+        "comment": "notification rule action option | notification rule urgency option | widget style option",
+        "fuzzy": 0
+    },
+    {
+        "term": "Defaults",
+        "definition": "M\u1eb7c \u0111\u1ecbnh",
+        "context": "Defaults",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Components\/EditControls.qml:272",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Del: Clear \u2022 Shift+Del: Clear All \u2022 1-9: Actions \u2022 F10: Help \u2022 Esc: Close",
+        "definition": "Del: X\u00f3a \u2022 Shift+Del: X\u00f3a h\u1ebft \u2022 1-9: Thao t\u00e1c \u2022 F10: Tr\u1ee3 gi\u00fap \u2022 Esc: \u0110\u00f3ng",
+        "context": "Del: Clear \u2022 Shift+Del: Clear All \u2022 1-9: Actions \u2022 F10: Help \u2022 Esc: Close",
+        "term_plural": "",
+        "reference": "Modules\/Notifications\/Center\/NotificationKeyboardHints.qml:35",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Development",
+        "definition": "Ph\u00e1t tri\u1ec3n",
+        "context": "Development",
+        "term_plural": "",
+        "reference": "Services\/AppSearchService.qml:639, Services\/AppSearchService.qml:640, Services\/AppSearchService.qml:641, Widgets\/DankIconPicker.qml:31",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Device",
+        "definition": "Thi\u1ebft b\u1ecb",
+        "context": "Device",
+        "term_plural": "",
+        "reference": "Widgets\/KeybindItem.qml:1032, Modules\/Settings\/PrinterTab.qml:423",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Disconnect",
+        "definition": "Ng\u1eaft k\u1ebft n\u1ed1i",
+        "context": "Disconnect",
+        "term_plural": "",
+        "reference": "Widgets\/VpnDetailContent.qml:126, Modules\/Settings\/NetworkTab.qml:1629, Modules\/ControlCenter\/Details\/BluetoothDetail.qml:616, Modules\/ControlCenter\/Details\/NetworkDetail.qml:427, Modules\/ControlCenter\/Details\/NetworkDetail.qml:782",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Disk",
+        "definition": "\u1ed4 \u0111\u0129a",
+        "context": "Disk",
+        "term_plural": "",
+        "reference": "Modules\/ProcessList\/PerformanceView.qml:128, Modules\/Settings\/DesktopWidgetSettings\/SystemMonitorSettings.qml:248",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Disk Usage",
+        "definition": "M\u1ee9c s\u1eed d\u1ee5ng \u1ed5 \u0111\u0129a",
+        "context": "Disk Usage",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:124, Modules\/ControlCenter\/Models\/WidgetModel.qml:169, Modules\/ControlCenter\/Widgets\/DiskUsagePill.qml:35",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Display all priorities over fullscreen apps",
+        "definition": "Hi\u1ec3n th\u1ecb m\u1ecdi m\u1ee9c \u01b0u ti\u00ean tr\u00ean \u1ee9ng d\u1ee5ng to\u00e0n m\u00e0n h\u00ecnh",
+        "context": "Display all priorities over fullscreen apps",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/NotificationsTab.qml:262, Modules\/Notifications\/Center\/NotificationSettings.qml:265",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Display currently focused application title",
+        "definition": "Hi\u1ec3n th\u1ecb t\u00ean \u1ee9ng d\u1ee5ng \u0111ang ch\u1ecdn",
+        "context": "Display currently focused application title",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:60",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Displays",
+        "definition": "Hi\u1ec3n th\u1ecb",
+        "context": "Displays",
+        "term_plural": "",
+        "reference": "Modals\/Greeter\/GreeterCompletePage.qml:373, Modals\/Settings\/SettingsSidebar.qml:207, Modules\/Settings\/Widgets\/SettingsDisplayPicker.qml:36",
+        "comment": "greeter settings link",
+        "fuzzy": 0
+    },
+    {
+        "term": "Displays the active keyboard layout and allows switching",
+        "definition": "Hi\u1ec3n th\u1ecb b\u1ed1 c\u1ee5c b\u00e0n ph\u00edm \u0111ang d\u00f9ng v\u00e0 cho ph\u00e9p chuy\u1ec3n \u0111\u1ed5i",
+        "context": "Displays the active keyboard layout and allows switching",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:227",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Do Not Disturb",
+        "definition": "Kh\u00f4ng l\u00e0m phi\u1ec1n",
+        "context": "Do Not Disturb",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/NotificationsTab.qml:386, Modules\/ControlCenter\/Models\/WidgetModel.qml:85, Modules\/ControlCenter\/Widgets\/DndPill.qml:10, Modules\/Notifications\/Center\/NotificationHeader.qml:77, Modules\/Notifications\/Center\/NotificationSettings.qml:151, Modules\/Notifications\/Center\/DndDurationMenu.qml:140",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Dock",
+        "definition": "Dock",
+        "context": "Dock",
+        "term_plural": "",
+        "reference": "Modals\/Greeter\/GreeterCompletePage.qml:422, Modals\/Settings\/SettingsSidebar.qml:186",
+        "comment": "greeter settings link",
+        "fuzzy": 0
+    },
+    {
+        "term": "Dock Transparency",
+        "definition": "\u0110\u1ed9 trong su\u1ed1t thanh Dock",
+        "context": "Dock Transparency",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:631",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Drag widgets to reorder within sections. Use the eye icon to hide\/show widgets (maintains spacing), or X to remove them completely.",
+        "definition": "K\u00e9o \u0111\u1ec3 s\u1eafp x\u1ebfp ti\u1ec7n \u00edch. D\u00f9ng bi\u1ec3u t\u01b0\u1ee3ng m\u1eaft \u0111\u1ec3 \u1ea9n\/hi\u1ec7n, ho\u1eb7c X \u0111\u1ec3 x\u00f3a",
+        "context": "Drag widgets to reorder within sections. Use the eye icon to hide\/show widgets (maintains spacing), or X to remove them completely.",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:944",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Education",
+        "definition": "Gi\u00e1o d\u1ee5c",
+        "context": "Education",
+        "term_plural": "",
+        "reference": "Services\/AppSearchService.qml:642",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Empty",
+        "definition": "Tr\u1ed1ng",
+        "context": "Empty",
+        "term_plural": "",
+        "reference": "DMSShell.qml:377, Services\/BatteryService.qml:140, Modules\/Notepad\/NotepadTextEditor.qml:848",
+        "comment": "battery status",
+        "fuzzy": 0
+    },
+    {
+        "term": "Enable Weather",
+        "definition": "Th\u1eddi ti\u1ebft",
+        "context": "Enable Weather",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:400",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Enable WiFi",
+        "definition": "WiFi",
+        "context": "Enable WiFi",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Details\/NetworkDetail.qml:244",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "End",
+        "definition": "H\u1ebft",
+        "context": "End",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:1204, Modules\/Settings\/GammaControlTab.qml:295",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Enter custom lock screen format (e.g., dddd, MMMM d)",
+        "definition": "Nh\u1eadp \u0111\u1ecbnh d\u1ea1ng m\u00e0n h\u00ecnh kh\u00f3a (vd: dddd, MMMM d)",
+        "context": "Enter custom lock screen format (e.g., dddd, MMMM d)",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:284",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Enter custom top bar format (e.g., ddd MMM d)",
+        "definition": "Nh\u1eadp \u0111\u1ecbnh d\u1ea1ng thanh tr\u00ean t\u00f9y ch\u1ec9nh (vd: ddd MMM d)",
+        "context": "Enter custom top bar format (e.g., ddd MMM d)",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:197",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Enter filename...",
+        "definition": "Nh\u1eadp t\u00ean t\u1ec7p...",
+        "context": "Enter filename...",
+        "term_plural": "",
+        "reference": "Modals\/FileBrowser\/FileBrowserSaveRow.qml:24",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Exclusive Zone Offset",
+        "definition": "\u0110\u1ed9 l\u1ec7ch v\u00f9ng \u0111\u1ed9c quy\u1ec1n",
+        "context": "Exclusive Zone Offset",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:606, Modules\/Settings\/DankBarTab.qml:737",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "F1\/I: Toggle \u2022 F10: Help",
+        "definition": "F1\/I: B\u1eadt\/t\u1eaft \u2022 F10: Tr\u1ee3 gi\u00fap",
+        "context": "F1\/I: Toggle \u2022 F10: Help",
+        "term_plural": "",
+        "reference": "Modals\/FileBrowser\/FileInfo.qml:200",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Feels Like",
+        "definition": "C\u1ea3m gi\u00e1c nh\u01b0",
+        "context": "Feels Like",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:889",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "File Already Exists",
+        "definition": "T\u1ec7p \u0111\u00e3 t\u1ed3n t\u1ea1i",
+        "context": "File Already Exists",
+        "term_plural": "",
+        "reference": "Modals\/FileBrowser\/FileBrowserOverwriteDialog.qml:53",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "File Information",
+        "definition": "Th\u00f4ng tin t\u1ec7p",
+        "context": "File Information",
+        "term_plural": "",
+        "reference": "Modals\/FileBrowser\/FileInfo.qml:137",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Find in Text",
+        "definition": "T\u00ecm trong v\u0103n b\u1ea3n",
+        "context": "Find in Text",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/NotepadSettings.qml:185",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Find in note...",
+        "definition": "T\u00ecm trong ghi ch\u00fa...",
+        "context": "Find in note...",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/NotepadTextEditor.qml:381",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Focused Window",
+        "definition": "C\u1eeda s\u1ed5 \u0111ang ch\u1ecdn",
+        "context": "Focused Window",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:59",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Font Family",
+        "definition": "Nh\u00f3m ph\u00f4ng ch\u1eef",
+        "context": "Font Family",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/NotepadSettings.qml:211",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Font Scale",
+        "definition": "T\u1ec9 l\u1ec7 ph\u00f4ng ch\u1eef",
+        "context": "Font Scale",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TypographyMotionTab.qml:183, Modules\/Settings\/DankBarTab.qml:909",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Font Size",
+        "definition": "K\u00edch th\u01b0\u1edbc ph\u00f4ng ch\u1eef",
+        "context": "Font Size",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/NotepadSettings.qml:245",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Font Weight",
+        "definition": "\u0110\u1ed9 \u0111\u1eadm ph\u00f4ng ch\u1eef",
+        "context": "Font Weight",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TypographyMotionTab.qml:114",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Forget Device",
+        "definition": "Qu\u00ean thi\u1ebft b\u1ecb",
+        "context": "Forget Device",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Details\/BluetoothDetail.qml:697",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Forget Network",
+        "definition": "Qu\u00ean m\u1ea1ng",
+        "context": "Forget Network",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/NetworkTab.qml:1311, Modules\/ControlCenter\/Details\/NetworkDetail.qml:859",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Format Legend",
+        "definition": "Ch\u00fa th\u00edch \u0111\u1ecbnh d\u1ea1ng",
+        "context": "Format Legend",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:313",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Fun",
+        "definition": "Gi\u1ea3i tr\u00ed",
+        "context": "Fun",
+        "term_plural": "",
+        "reference": "Widgets\/DankIconPicker.qml:59",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "GPU",
+        "definition": "GPU",
+        "context": "GPU",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DesktopWidgetSettings\/SystemMonitorSettings.qml:138",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "GPU Temperature",
+        "definition": "Nhi\u1ec7t \u0111\u1ed9 GPU",
+        "context": "GPU Temperature",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:140, Modules\/Settings\/DesktopWidgetSettings\/SystemMonitorSettings.qml:116",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Games",
+        "definition": "Tr\u00f2 ch\u01a1i",
+        "context": "Games",
+        "term_plural": "",
+        "reference": "Services\/AppSearchService.qml:643",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Good",
+        "definition": "T\u1ed1t",
+        "context": "Good",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:1134",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Goth Corners",
+        "definition": "Bo g\u00f3c Gothic",
+        "context": "Goth Corners",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DankBarTab.qml:1012",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Graphics",
+        "definition": "\u0110\u1ed3 h\u1ecda",
+        "context": "Graphics",
+        "term_plural": "",
+        "reference": "Services\/AppSearchService.qml:644, Services\/AppSearchService.qml:645",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Group by App",
+        "definition": "Nh\u00f3m theo \u1ee9ng d\u1ee5ng",
+        "context": "Group by App",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTabSection.qml:2275, Modules\/Settings\/DockTab.qml:157",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Group multiple windows of the same app together with a window count indicator",
+        "definition": "Nh\u00f3m c\u00e1c c\u1eeda s\u1ed5 c\u00f9ng \u1ee9ng d\u1ee5ng v\u00e0 hi\u1ec3n th\u1ecb s\u1ed1 l\u01b0\u1ee3ng c\u1eeda s\u1ed5",
+        "context": "Group multiple windows of the same app together with a window count indicator",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:158",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Health",
+        "definition": "S\u1ee9c kh\u1ecfe",
+        "context": "Health",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Details\/BatteryDetail.qml:141, Modules\/DankBar\/Popouts\/BatteryPopout.qml:298, Modules\/DankBar\/Popouts\/BatteryPopout.qml:454",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Hibernate",
+        "definition": "Ng\u1ee7 \u0111\u00f4ng",
+        "context": "Hibernate",
+        "term_plural": "",
+        "reference": "Modals\/PowerMenuModal.qml:210, Modules\/Lock\/LockPowerMenu.qml:128, Modules\/Settings\/PowerSleepTab.qml:344, Modules\/Settings\/PowerSleepTab.qml:411",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Hour",
+        "definition": "Gi\u1edd",
+        "context": "Hour",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:1142, Modules\/Settings\/GammaControlTab.qml:232",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "How often to change wallpaper",
+        "definition": "T\u1ea7n su\u1ea5t thay \u0111\u1ed5i h\u00ecnh n\u1ec1n",
+        "context": "How often to change wallpaper",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WallpaperTab.qml:1010",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Humidity",
+        "definition": "\u0110\u1ed9 \u1ea9m",
+        "context": "Humidity",
+        "term_plural": "",
+        "reference": "dms-plugins\/DankDesktopWeather\/DankDesktopWeather.qml:413, Modules\/DankDash\/WeatherTab.qml:84, Modules\/DankDash\/WeatherForecastCard.qml:80, Modules\/Settings\/TimeWeatherTab.qml:933",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "I Understand",
+        "definition": "\u0110\u00e3 hi\u1ec3u",
+        "context": "I Understand",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginBrowser.qml:838",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Icon Theme",
+        "definition": "Ch\u1ee7 \u0111\u1ec1 bi\u1ec3u t\u01b0\u1ee3ng",
+        "context": "Icon Theme",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:2474, Modules\/Settings\/ThemeColorsTab.qml:2482",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Idle Inhibitor",
+        "definition": "Ch\u1eb7n ch\u1ebf \u0111\u1ed9 r\u1ea3nh",
+        "context": "Idle Inhibitor",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:190, Modules\/Settings\/OSDTab.qml:125",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Idle Settings",
+        "definition": "C\u00e0i \u0111\u1eb7t tr\u1ea1ng th\u00e1i r\u1ea3nh",
+        "context": "Idle Settings",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PowerSleepTab.qml:34",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Idle monitoring not supported - requires newer Quickshell version",
+        "definition": "Kh\u00f4ng h\u1ed7 tr\u1ee3 theo d\u00f5i tr\u1ea1ng th\u00e1i r\u1ea3nh - y\u00eau c\u1ea7u b\u1ea3n Quickshell m\u1edbi h\u01a1n",
+        "context": "Idle monitoring not supported - requires newer Quickshell version",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PowerSleepTab.qml:375",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Image",
+        "definition": "H\u00ecnh \u1ea3nh",
+        "context": "Image",
+        "term_plural": "",
+        "reference": "Modals\/Clipboard\/ClipboardEntry.qml:116",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Include Transitions",
+        "definition": "Hi\u1ec7u \u1ee9ng chuy\u1ec3n c\u1ea3nh",
+        "context": "Include Transitions",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WallpaperTab.qml:1201",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Input Devices",
+        "definition": "Thi\u1ebft b\u1ecb \u0111\u1ea7u v\u00e0o",
+        "context": "Input Devices",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/AudioTab.qml:319, Modules\/ControlCenter\/Details\/AudioInputDetail.qml:37",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Install plugins from the DMS plugin registry",
+        "definition": "C\u00e0i plugin t\u1eeb kho plugin DMS",
+        "context": "Install plugins from the DMS plugin registry",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginBrowser.qml:321",
+        "comment": "plugin browser description",
+        "fuzzy": 0
+    },
+    {
+        "term": "Internet",
+        "definition": "Internet",
+        "context": "Internet",
+        "term_plural": "",
+        "reference": "Services\/AppSearchService.qml:646, Services\/AppSearchService.qml:647, Services\/AppSearchService.qml:648",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Interval",
+        "definition": "Chu k\u1ef3",
+        "context": "Interval",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WallpaperTab.qml:956, Modules\/Settings\/WallpaperTab.qml:1009",
+        "comment": "wallpaper cycling mode tab",
+        "fuzzy": 0
+    },
+    {
+        "term": "Invert on mode change",
+        "definition": "\u0110\u1ea3o tr\u1ea1ng th\u00e1i khi \u0111\u1ed5i ch\u1ebf \u0111\u1ed9",
+        "context": "Invert on mode change",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/LauncherTab.qml:300",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Keyboard Layout Name",
+        "definition": "T\u00ean b\u1ed1 c\u1ee5c b\u00e0n ph\u00edm",
+        "context": "Keyboard Layout Name",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:226",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Kill Process",
+        "definition": "D\u1eebng ti\u1ebfn tr\u00ecnh",
+        "context": "Kill Process",
+        "term_plural": "",
+        "reference": "Modules\/ProcessList\/ProcessContextMenu.qml:42",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Latitude",
+        "definition": "V\u0129 \u0111\u1ed9",
+        "context": "Latitude",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:1287, Modules\/Settings\/GammaControlTab.qml:379, Modules\/Settings\/TimeWeatherTab.qml:502",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Launch",
+        "definition": "Kh\u1edfi ch\u1ea1y",
+        "context": "Launch",
+        "term_plural": "",
+        "reference": "Modals\/DankLauncherV2\/LauncherContextMenu.qml:154, Modals\/DankLauncherV2\/Controller.qml:1102, Modals\/DankLauncherV2\/Controller.qml:1507",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Launch Prefix",
+        "definition": "Ti\u1ec1n l\u1ec7nh kh\u1edfi ch\u1ea1y",
+        "context": "Launch Prefix",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/LauncherTab.qml:311",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Launch on dGPU",
+        "definition": "Ch\u1ea1y b\u1eb1ng GPU r\u1eddi",
+        "context": "Launch on dGPU",
+        "term_plural": "",
+        "reference": "Modals\/DankLauncherV2\/LauncherContextMenu.qml:146, Modals\/DankLauncherV2\/ActionPanel.qml:61, Modules\/Dock\/DockContextMenu.qml:304, Modules\/DankBar\/Widgets\/AppsDockContextMenu.qml:410",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Launcher",
+        "definition": "Tr\u00ecnh kh\u1edfi ch\u1ea1y",
+        "context": "Launcher",
+        "term_plural": "",
+        "reference": "Modals\/Settings\/SettingsSidebar.qml:192",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Launcher Button Logo",
+        "definition": "Logo n\u00fat tr\u00ecnh kh\u1edfi ch\u1ea1y",
+        "context": "Launcher Button Logo",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/LauncherTab.qml:36",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Light Mode",
+        "definition": "Ch\u1ebf \u0111\u1ed9 ban ng\u00e0y",
+        "context": "Light Mode",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:1415, Modules\/Settings\/ThemeColorsTab.qml:1485, Modules\/Settings\/WallpaperTab.qml:392",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Lines: %1",
+        "definition": "D\u00f2ng: %1",
+        "context": "Lines: %1",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/NotepadTextEditor.qml:860",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Location Search",
+        "definition": "T\u00ecm ki\u1ebfm v\u1ecb tr\u00ed",
+        "context": "Location Search",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:602",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Lock Screen",
+        "definition": "Kh\u00f3a m\u00e0n h\u00ecnh",
+        "context": "Lock Screen",
+        "term_plural": "",
+        "reference": "Modals\/Greeter\/GreeterWelcomePage.qml:158, Modals\/Settings\/SettingsSidebar.qml:293, Modules\/Settings\/NotificationsTab.qml:721",
+        "comment": "greeter feature card title | lock screen notifications settings card",
+        "fuzzy": 0
+    },
+    {
+        "term": "Lock Screen Format",
+        "definition": "\u0110\u1ecbnh d\u1ea1ng m\u00e0n h\u00ecnh kh\u00f3a",
+        "context": "Lock Screen Format",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:216",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Lock before suspend",
+        "definition": "Kh\u00f3a tr\u01b0\u1edbc khi ng\u1ee7",
+        "context": "Lock before suspend",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PowerSleepTab.qml:92, Modules\/Settings\/LockScreenTab.qml:191",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Log Out",
+        "definition": "\u0110\u0103ng xu\u1ea5t",
+        "context": "Log Out",
+        "term_plural": "",
+        "reference": "Modals\/PowerMenuModal.qml:186, Modules\/Lock\/LockPowerMenu.qml:110, Modules\/Settings\/PowerSleepTab.qml:411, Modules\/Settings\/PowerSleepTab.qml:417",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Long Text",
+        "definition": "V\u0103n b\u1ea3n d\u00e0i",
+        "context": "Long Text",
+        "term_plural": "",
+        "reference": "Modals\/Clipboard\/ClipboardEntry.qml:118",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Longitude",
+        "definition": "Kinh \u0111\u1ed9",
+        "context": "Longitude",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:1310, Modules\/Settings\/GammaControlTab.qml:402, Modules\/Settings\/TimeWeatherTab.qml:551",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Low Priority",
+        "definition": "\u01afu ti\u00ean th\u1ea5p",
+        "context": "Low Priority",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/NotificationsTab.qml:146, Modules\/Settings\/NotificationsTab.qml:751, Modules\/Settings\/NotificationsTab.qml:874, Modules\/Notifications\/Center\/NotificationSettings.qml:181, Modules\/Notifications\/Center\/NotificationSettings.qml:364",
+        "comment": "notification rule urgency option",
+        "fuzzy": 0
+    },
+    {
+        "term": "Manage and configure plugins for extending DMS functionality",
+        "definition": "Qu\u1ea3n l\u00fd & c\u1ea5u h\u00ecnh plugin \u0111\u1ec3 m\u1edf r\u1ed9ng t\u00ednh n\u0103ng DMS",
+        "context": "Manage and configure plugins for extending DMS functionality",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginsTab.qml:80",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Manual Coordinates",
+        "definition": "Nh\u1eadp t\u1ecda \u0111\u1ed9 th\u1ee7 c\u00f4ng",
+        "context": "Manual Coordinates",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:1272, Modules\/Settings\/GammaControlTab.qml:367",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Manual Show\/Hide",
+        "definition": "Hi\u1ec3n th\u1ecb\/\u1ea9n th\u1ee7 c\u00f4ng",
+        "context": "Manual Show\/Hide",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DankBarTab.qml:663",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Material Colors",
+        "definition": "M\u00e0u Material",
+        "context": "Material Colors",
+        "term_plural": "",
+        "reference": "Modals\/DankColorPickerModal.qml:417",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Matugen Palette",
+        "definition": "B\u1ea3ng m\u00e0u Matugen",
+        "context": "Matugen Palette",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:504",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Max apps to show",
+        "definition": "Gi\u1edbi h\u1ea1n \u1ee9ng d\u1ee5ng hi\u1ec3n th\u1ecb",
+        "context": "Max apps to show",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WorkspacesTab.qml:79",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Media",
+        "definition": "Ph\u01b0\u01a1ng ti\u1ec7n",
+        "context": "Media",
+        "term_plural": "",
+        "reference": "Services\/AppSearchService.qml:636, Services\/AppSearchService.qml:637, Services\/AppSearchService.qml:638, Widgets\/DankIconPicker.qml:39, Widgets\/KeybindItem.qml:1095, Widgets\/KeybindItem.qml:1104, Widgets\/KeybindItem.qml:1110, Modules\/DankDash\/DankDashPopout.qml:276",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Media Controls",
+        "definition": "\u0110i\u1ec1u khi\u1ec3n ph\u01b0\u01a1ng ti\u1ec7n",
+        "context": "Media Controls",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:94",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Media Player Settings",
+        "definition": "C\u00e0i \u0111\u1eb7t tr\u00ecnh ph\u00e1t ph\u01b0\u01a1ng ti\u1ec7n",
+        "context": "Media Player Settings",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/MediaPlayerTab.qml:25",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Media Players (",
+        "definition": "Tr\u00ecnh ph\u00e1t ph\u01b0\u01a1ng ti\u1ec7n (",
+        "context": "Media Players (",
+        "term_plural": "",
+        "reference": "Modules\/DankDash\/MediaDropdownOverlay.qml:429",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Memory",
+        "definition": "B\u1ed9 nh\u1edb",
+        "context": "Memory",
+        "term_plural": "",
+        "reference": "Modules\/ProcessList\/ProcessListPopout.qml:319, Modules\/ProcessList\/ProcessesView.qml:268, Modules\/ProcessList\/PerformanceView.qml:91, Modules\/Settings\/DesktopWidgetSettings\/SystemMonitorSettings.qml:210",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Memory Usage",
+        "definition": "M\u1ee9c s\u1eed d\u1ee5ng b\u1ed9 nh\u1edb",
+        "context": "Memory Usage",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:116",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Memory usage indicator",
+        "definition": "Ch\u1ec9 b\u00e1o m\u1ee9c s\u1eed d\u1ee5ng b\u1ed9 nh\u1edb",
+        "context": "Memory usage indicator",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:117",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Minute",
+        "definition": "Ph\u00fat",
+        "context": "Minute",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:1150, Modules\/Settings\/GammaControlTab.qml:240",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Mode:",
+        "definition": "Ch\u1ebf \u0111\u1ed9:",
+        "context": "Mode:",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WallpaperTab.qml:940",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Monospace Font",
+        "definition": "Ph\u00f4ng ch\u1eef \u0111\u01a1n c\u00e1ch",
+        "context": "Monospace Font",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TypographyMotionTab.qml:88",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "NM not supported",
+        "definition": "Kh\u00f4ng h\u1ed7 tr\u1ee3 NM",
+        "context": "NM not supported",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Components\/DragDropGrid.qml:223",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Named Workspace Icons",
+        "definition": "Bi\u1ec3u t\u01b0\u1ee3ng kh\u00f4ng gian l\u00e0m vi\u1ec7c c\u00f3 t\u00ean",
+        "context": "Named Workspace Icons",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WorkspacesTab.qml:417",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Navigation",
+        "definition": "\u0110i\u1ec1u h\u01b0\u1edbng",
+        "context": "Navigation",
+        "term_plural": "",
+        "reference": "Widgets\/DankIconPicker.qml:47",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Network",
+        "definition": "M\u1ea1ng",
+        "context": "Network",
+        "term_plural": "",
+        "reference": "Services\/CupsService.qml:134, Modals\/Settings\/SettingsSidebar.qml:233, Modules\/ProcessList\/PerformanceView.qml:112, Modules\/Settings\/WidgetsTabSection.qml:1229, Modules\/Settings\/WidgetsTabSection.qml:1468, Modules\/Settings\/DesktopWidgetSettings\/SystemMonitorSettings.qml:229, Modules\/ControlCenter\/Details\/NetworkDetail.qml:88, Modules\/ControlCenter\/Models\/WidgetModel.qml:101",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Network Info",
+        "definition": "Th\u00f4ng tin m\u1ea1ng",
+        "context": "Network Info",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Details\/NetworkDetail.qml:450, Modules\/ControlCenter\/Details\/NetworkDetail.qml:812",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Network Information",
+        "definition": "Th\u00f4ng tin m\u1ea1ng",
+        "context": "Network Information",
+        "term_plural": "",
+        "reference": "Modals\/NetworkWiredInfoModal.qml:62, Modals\/NetworkInfoModal.qml:62",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Network Speed Monitor",
+        "definition": "Tr\u00ecnh gi\u00e1m s\u00e1t t\u1ed1c \u0111\u1ed9 m\u1ea1ng",
+        "context": "Network Speed Monitor",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:218",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Network download and upload speed display",
+        "definition": "Hi\u1ec3n th\u1ecb t\u1ed1c \u0111\u1ed9 m\u1ea1ng (t\u1ea3i l\u00ean & t\u1ea3i xu\u1ed1ng)",
+        "context": "Network download and upload speed display",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:219",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "New",
+        "definition": "M\u1edbi",
+        "context": "New",
+        "term_plural": "",
+        "reference": "Modals\/MuxModal.qml:592, Modules\/Notepad\/NotepadTextEditor.qml:806",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "New York, NY",
+        "definition": " New York, NY ",
+        "context": "New York, NY",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:612",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Night Mode",
+        "definition": "Ch\u1ebf \u0111\u1ed9 ban \u0111\u00eam",
+        "context": "Night Mode",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/GammaControlTab.qml:76, Modules\/ControlCenter\/Models\/WidgetModel.qml:68, Modules\/ControlCenter\/Components\/DragDropGrid.qml:637",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "No Active Players",
+        "definition": "Kh\u00f4ng c\u00f3 tr\u00ecnh ph\u00e1t \u0111ang ho\u1ea1t \u0111\u1ed9ng",
+        "context": "No Active Players",
+        "term_plural": "",
+        "reference": "Modules\/DankDash\/MediaPlayerTab.qml:276",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "No Background",
+        "definition": "Kh\u00f4ng c\u00f3 \u1ea3nh n\u1ec1n",
+        "context": "No Background",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DankBarTab.qml:973",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "No Bluetooth adapter found",
+        "definition": "Kh\u00f4ng t\u00ecm th\u1ea5y Bluetooth",
+        "context": "No Bluetooth adapter found",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Details\/BluetoothDetail.qml:589",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "No Media",
+        "definition": "Kh\u00f4ng c\u00f3 ph\u01b0\u01a1ng ti\u1ec7n \u0111ang ph\u00e1t",
+        "context": "No Media",
+        "term_plural": "",
+        "reference": "Modules\/DankDash\/Overview\/MediaOverviewCard.qml:56",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "No Weather Data Available",
+        "definition": "Kh\u00f4ng c\u00f3 d\u1eef li\u1ec7u th\u1eddi ti\u1ebft",
+        "context": "No Weather Data Available",
+        "term_plural": "",
+        "reference": "Modules\/DankDash\/WeatherTab.qml:135, Modules\/Settings\/TimeWeatherTab.qml:651",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "No items added yet",
+        "definition": "Kh\u00f4ng c\u00f3 m\u1ee5c n\u00e0o \u0111\u01b0\u1ee3c th\u00eam",
+        "context": "No items added yet",
+        "term_plural": "",
+        "reference": "Modules\/Plugins\/ListSetting.qml:79, Modules\/Plugins\/ListSettingWithInput.qml:250",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "No matches",
+        "definition": "Kh\u00f4ng c\u00f3 k\u1ebft qu\u1ea3 ph\u00f9 h\u1ee3p",
+        "context": "No matches",
+        "term_plural": "",
+        "reference": "Modals\/Settings\/SettingsSidebar.qml:812, Modules\/Notepad\/NotepadTextEditor.qml:391",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "No plugins found",
+        "definition": "Kh\u00f4ng t\u00ecm th\u1ea5y plugin n\u00e0o",
+        "context": "No plugins found",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginBrowser.qml:708",
+        "comment": "empty plugin list",
+        "fuzzy": 0
+    },
+    {
+        "term": "No plugins found.",
+        "definition": "Kh\u00f4ng t\u00ecm th\u1ea5y plugin n\u00e0o.",
+        "context": "No plugins found.",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginsTab.qml:337",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Normal Priority",
+        "definition": "\u01afu ti\u00ean th\u01b0\u1eddng",
+        "context": "Normal Priority",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/NotificationsTab.qml:150, Modules\/Settings\/NotificationsTab.qml:768, Modules\/Settings\/NotificationsTab.qml:883, Modules\/Notifications\/Center\/NotificationSettings.qml:196, Modules\/Notifications\/Center\/NotificationSettings.qml:398",
+        "comment": "notification rule urgency option",
+        "fuzzy": 0
+    },
+    {
+        "term": "Notepad",
+        "definition": "Ghi ch\u00fa",
+        "context": "Notepad",
+        "term_plural": "",
+        "reference": "DMSShell.qml:918, Services\/AppSearchService.qml:179, Modules\/Settings\/WidgetsTab.qml:232",
+        "comment": "Notepad",
+        "fuzzy": 0
+    },
+    {
+        "term": "Notepad Font Settings",
+        "definition": "C\u00e0i \u0111\u1eb7t ph\u00f4ng ch\u1eef ghi ch\u00fa",
+        "context": "Notepad Font Settings",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/NotepadSettings.qml:113",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Nothing to see here",
+        "definition": "Kh\u00f4ng c\u00f3 g\u00ec \u1edf \u0111\u00e2y c\u1ea3",
+        "context": "Nothing to see here",
+        "term_plural": "",
+        "reference": "Modules\/Notifications\/Center\/NotificationEmptyState.qml:27",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Notification Center",
+        "definition": "Trung t\u00e2m th\u00f4ng b\u00e1o",
+        "context": "Notification Center",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:169",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Notification Overlay",
+        "definition": "L\u1edbp ph\u1ee7 th\u00f4ng b\u00e1o",
+        "context": "Notification Overlay",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/NotificationsTab.qml:261, Modules\/Notifications\/Center\/NotificationSettings.qml:257",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Notification Popups",
+        "definition": "Th\u00f4ng b\u00e1o n\u1ed5i",
+        "context": "Notification Popups",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DisplayWidgetsTab.qml:37, Modules\/Settings\/NotificationsTab.qml:206",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Notification Settings",
+        "definition": "C\u00e0i \u0111\u1eb7t th\u00f4ng b\u00e1o",
+        "context": "Notification Settings",
+        "term_plural": "",
+        "reference": "Modules\/Notifications\/Center\/NotificationSettings.qml:127",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Notification Timeouts",
+        "definition": "Qu\u00e1 th\u1eddi gian ch\u1edd th\u00f4ng b\u00e1o",
+        "context": "Notification Timeouts",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/NotificationsTab.qml:743, Modules\/Notifications\/Center\/NotificationSettings.qml:174",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Notifications",
+        "definition": "Th\u00f4ng b\u00e1o",
+        "context": "Notifications",
+        "term_plural": "",
+        "reference": "Modals\/Greeter\/GreeterCompletePage.qml:397, Modals\/Settings\/SettingsSidebar.qml:146, Modules\/Notifications\/Center\/NotificationHeader.qml:55",
+        "comment": "greeter settings link",
+        "fuzzy": 0
+    },
+    {
+        "term": "Numbers",
+        "definition": "S\u1ed1",
+        "context": "Numbers",
+        "term_plural": "",
+        "reference": "Widgets\/DankIconPicker.qml:23",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "OS Logo",
+        "definition": "Logo OS",
+        "context": "OS Logo",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:266, Modules\/Settings\/LauncherTab.qml:59",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Office",
+        "definition": "V\u0103n ph\u00f2ng",
+        "context": "Office",
+        "term_plural": "",
+        "reference": "Services\/AppSearchService.qml:649, Services\/AppSearchService.qml:650, Services\/AppSearchService.qml:651, Services\/AppSearchService.qml:652",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Opacity",
+        "definition": "\u0110\u1ed9 m\u1edd",
+        "context": "Opacity",
+        "term_plural": "",
+        "reference": "Modals\/WindowRuleModal.qml:679, Modals\/DankColorPickerModal.qml:521, Modules\/Settings\/DankBarTab.qml:1215, Modules\/Settings\/DankBarTab.qml:1305, Modules\/Settings\/DankBarTab.qml:1403, Modules\/Settings\/WindowRulesTab.qml:534",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Open",
+        "definition": "M\u1edf",
+        "context": "Open",
+        "term_plural": "",
+        "reference": "Modals\/DankLauncherV2\/Controller.qml:1106, Modals\/DankLauncherV2\/Controller.qml:1110, Modals\/DankLauncherV2\/Controller.qml:1114, Modules\/Notepad\/NotepadTextEditor.qml:790, Modules\/Settings\/NetworkTab.qml:1201, Modules\/Settings\/NetworkTab.qml:1448, Modules\/ControlCenter\/Details\/NetworkDetail.qml:609, Modules\/Notifications\/Center\/NotificationCard.qml:711, Modules\/Notifications\/Center\/NotificationCard.qml:849",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Open Notepad File",
+        "definition": "M\u1edf t\u1ec7p ghi ch\u00fa",
+        "context": "Open Notepad File",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/Notepad.qml:343",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Open search bar to find text",
+        "definition": "M\u1edf thanh t\u00ecm ki\u1ebfm",
+        "context": "Open search bar to find text",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/NotepadSettings.qml:192",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Overview",
+        "definition": "T\u1ed5ng quan",
+        "context": "Overview",
+        "term_plural": "",
+        "reference": "Widgets\/KeybindItem.qml:1101, Widgets\/KeybindItem.qml:1104, Modules\/DankDash\/DankDashPopout.qml:272",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Overwrite",
+        "definition": "Ghi \u0111\u00e8",
+        "context": "Overwrite",
+        "term_plural": "",
+        "reference": "Modals\/FileBrowser\/FileBrowserOverwriteDialog.qml:108",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Padding",
+        "definition": "L\u1ec1 trong",
+        "context": "Padding",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:597, Modules\/Settings\/DankBarTab.qml:779",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Per-Mode Wallpapers",
+        "definition": "H\u00ecnh n\u1ec1n cho t\u1eebng ch\u1ebf \u0111\u1ed9",
+        "context": "Per-Mode Wallpapers",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WallpaperTab.qml:370",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Per-Monitor Wallpapers",
+        "definition": "H\u00ecnh n\u1ec1n cho t\u1eebng m\u00e0n h\u00ecnh",
+        "context": "Per-Monitor Wallpapers",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WallpaperTab.qml:801",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Percentage",
+        "definition": "Ph\u1ea7n tr\u0103m",
+        "context": "Percentage",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTabSection.qml:1118, Modules\/Settings\/WidgetsTab.qml:125",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Personalization",
+        "definition": "C\u00e1 nh\u00e2n h\u00f3a",
+        "context": "Personalization",
+        "term_plural": "",
+        "reference": "Modals\/Settings\/SettingsSidebar.qml:71, Modals\/Settings\/SettingsSidebar.qml:584",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Pin to Dock",
+        "definition": "Ghim thanh Dock",
+        "context": "Pin to Dock",
+        "term_plural": "",
+        "reference": "Modals\/DankLauncherV2\/LauncherContextMenu.qml:103, Modules\/Dock\/DockContextMenu.qml:231, Modules\/DankBar\/Widgets\/AppsDockContextMenu.qml:350",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Place plugin directories here. Each plugin should have a plugin.json manifest file.",
+        "definition": "\u0110\u1eb7t th\u01b0 m\u1ee5c plugin \u1edf \u0111\u00e2y. M\u1ed7i plugin c\u1ea7n c\u00f3 file plugin.json",
+        "context": "Place plugin directories here. Each plugin should have a plugin.json manifest file.",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginsTab.qml:275",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Plugin Directory",
+        "definition": "Th\u01b0 m\u1ee5c plugin",
+        "context": "Plugin Directory",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginsTab.qml:257",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Plugin Management",
+        "definition": "Qu\u1ea3n l\u00fd plugin",
+        "context": "Plugin Management",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginsTab.qml:71",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Plugin is disabled - enable in Plugins settings to use",
+        "definition": "Plugin \u0111ang t\u1eaft - \u0111\u1ec3 s\u1eed d\u1ee5ng, h\u00e3y b\u1eadt trong c\u00e0i \u0111\u1eb7t Plugin",
+        "context": "Plugin is disabled - enable in Plugins settings to use",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:270",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Plugins",
+        "definition": "Plugin",
+        "context": "Plugins",
+        "term_plural": "",
+        "reference": "Modals\/Greeter\/GreeterWelcomePage.qml:122, Modals\/Greeter\/GreeterCompletePage.qml:476, Modals\/DankLauncherV2\/LauncherContent.qml:363, Modals\/Settings\/SettingsSidebar.qml:313, Modules\/Settings\/AboutTab.qml:290, Modules\/Settings\/AboutTab.qml:298",
+        "comment": "greeter feature card title | greeter plugins link",
+        "fuzzy": 0
+    },
+    {
+        "term": "Popup Position",
+        "definition": "V\u1ecb tr\u00ed c\u1eeda s\u1ed5 n\u1ed5i",
+        "context": "Popup Position",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/NotificationsTab.qml:212",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Popup Transparency",
+        "definition": "\u0110\u1ed9 trong su\u1ed1t c\u1eeda s\u1ed5 n\u1ed5i",
+        "context": "Popup Transparency",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:1620",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Position",
+        "definition": "V\u1ecb tr\u00ed",
+        "context": "Position",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:92, Modules\/Settings\/DankBarTab.qml:424, Modules\/Settings\/DisplayConfig\/DisplayConfigState.qml:1218",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Power Off",
+        "definition": "T\u1eaft ngu\u1ed3n",
+        "context": "Power Off",
+        "term_plural": "",
+        "reference": "Modals\/PowerMenuModal.qml:192, Modules\/Lock\/LockPowerMenu.qml:116, Modules\/Settings\/PowerSleepTab.qml:411",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Power Options",
+        "definition": "T\u00f9y ch\u1ecdn ngu\u1ed3n",
+        "context": "Power Options",
+        "term_plural": "",
+        "reference": "Modules\/Lock\/LockPowerMenu.qml:480",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Power Profile Degradation",
+        "definition": "Gi\u1ea3m hi\u1ec7u n\u0103ng theo ch\u1ebf \u0111\u1ed9 ngu\u1ed3n",
+        "context": "Power Profile Degradation",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Details\/BatteryDetail.qml:248, Modules\/DankBar\/Popouts\/BatteryPopout.qml:613",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Pressure",
+        "definition": "\u00c1p su\u1ea5t",
+        "context": "Pressure",
+        "term_plural": "",
+        "reference": "dms-plugins\/DankDesktopWeather\/DankDesktopWeather.qml:453, Modules\/DankDash\/WeatherTab.qml:94, Modules\/DankDash\/WeatherForecastCard.qml:90, Modules\/Settings\/TimeWeatherTab.qml:1034",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Prevent screen timeout",
+        "definition": "Ng\u0103n t\u1eaft m\u00e0n h\u00ecnh",
+        "context": "Prevent screen timeout",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:191, Modules\/ControlCenter\/Models\/WidgetModel.qml:94",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Primary",
+        "definition": "Ch\u00ednh",
+        "context": "Primary",
+        "term_plural": "",
+        "reference": "dms-plugins\/DankDesktopWeather\/DankDesktopWeatherSettings.qml:39, Modules\/Settings\/ThemeColorsTab.qml:1558, Modules\/Settings\/ThemeColorsTab.qml:1568, Modules\/Settings\/ThemeColorsTab.qml:1590, Modules\/Settings\/ThemeColorsTab.qml:1600, Modules\/Settings\/ThemeColorsTab.qml:1690, Modules\/Settings\/ThemeColorsTab.qml:1696, Modules\/Settings\/ThemeColorsTab.qml:1707, Modules\/Settings\/ThemeColorsTab.qml:1880, Modules\/Settings\/ThemeColorsTab.qml:1884, Modules\/Settings\/ThemeColorsTab.qml:1896, Modules\/Settings\/DockTab.qml:389, Modules\/Settings\/DockTab.qml:660, Modules\/Settings\/LauncherTab.qml:181, Modules\/Settings\/LauncherTab.qml:479, Modules\/Settings\/WorkspacesTab.qml:369, Modules\/Settings\/NetworkTab.qml:227, Modules\/Settings\/DankBarTab.qml:1086, Modules\/Settings\/DankBarTab.qml:1510, Modules\/Settings\/Widgets\/SettingsColorPicker.qml:42",
+        "comment": "blur border color | button color option | color option | primary color | shadow color option | tile color option",
+        "fuzzy": 0
+    },
+    {
+        "term": "Privacy Indicator",
+        "definition": "Ch\u1ec9 b\u00e1o quy\u1ec1n ri\u00eang t\u01b0",
+        "context": "Privacy Indicator",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:155",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Quick access to application launcher",
+        "definition": "Truy c\u1eadp nhanh v\u00e0o tr\u00ecnh kh\u1edfi ch\u1ea1y \u1ee9ng d\u1ee5ng",
+        "context": "Quick access to application launcher",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:46",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Quick access to color picker",
+        "definition": "Truy c\u1eadp nhanh v\u00e0o tr\u00ecnh ch\u1ecdn m\u00e0u",
+        "context": "Quick access to color picker",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:240",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Quick access to notepad",
+        "definition": "Truy c\u1eadp nhanh v\u00e0o ghi ch\u00fa",
+        "context": "Quick access to notepad",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:233",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Rain Chance",
+        "definition": "Kh\u1ea3 n\u0103ng c\u00f3 m\u01b0a",
+        "context": "Rain Chance",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:1084",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Reboot",
+        "definition": "Kh\u1edfi \u0111\u1ed9ng l\u1ea1i",
+        "context": "Reboot",
+        "term_plural": "",
+        "reference": "Modals\/PowerMenuModal.qml:180, Modules\/Lock\/LockPowerMenu.qml:104, Modules\/Settings\/PowerSleepTab.qml:411",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Recent Colors",
+        "definition": "M\u00e0u g\u1ea7n \u0111\u00e2y",
+        "context": "Recent Colors",
+        "term_plural": "",
+        "reference": "Modals\/DankColorPickerModal.qml:468",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Recently Used Apps",
+        "definition": "\u1ee8ng d\u1ee5ng \u0111\u00e3 d\u00f9ng g\u1ea7n \u0111\u00e2y",
+        "context": "Recently Used Apps",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/LauncherTab.qml:1141",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Refresh",
+        "definition": "L\u00e0m m\u1edbi",
+        "context": "Refresh",
+        "term_plural": "",
+        "reference": "dms-plugins\/DankKDEConnect\/DankKDEConnect.qml:296, Modules\/Settings\/GreeterTab.qml:504, Modules\/DankDash\/Overview\/WeatherOverviewCard.qml:38",
+        "comment": "Phone Connect refresh tooltip",
+        "fuzzy": 0
+    },
+    {
+        "term": "Remove",
+        "definition": "X\u00f3a",
+        "context": "Remove",
+        "term_plural": "",
+        "reference": "Modules\/Plugins\/ListSetting.qml:114, Modules\/Plugins\/ListSettingWithInput.qml:230",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Reset",
+        "definition": "\u0110\u1eb7t l\u1ea1i",
+        "context": "Reset",
+        "term_plural": "",
+        "reference": "Modals\/DankLauncherV2\/LauncherContent.qml:1009, Modules\/Settings\/WidgetsTab.qml:913, Modules\/ControlCenter\/Components\/EditControls.qml:306",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Running Apps",
+        "definition": "\u1ee8ng d\u1ee5ng \u0111ang ch\u1ea1y",
+        "context": "Running Apps",
+        "term_plural": "",
+        "reference": "Modals\/Settings\/SettingsSidebar.qml:158, Modules\/Settings\/WidgetsTab.qml:66",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Running Apps Settings",
+        "definition": "C\u00e0i \u0111\u1eb7t \u1ee9ng d\u1ee5ng \u0111ang ch\u1ea1y",
+        "context": "Running Apps Settings",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTabSection.qml:2196",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Save",
+        "definition": "L\u01b0u",
+        "context": "Save",
+        "term_plural": "",
+        "reference": "Modals\/DankColorPickerModal.qml:757, Widgets\/KeybindItem.qml:1365, Widgets\/KeybindItem.qml:1830, Modals\/DankLauncherV2\/LauncherContent.qml:1057, Modals\/FileBrowser\/FileBrowserSaveRow.qml:55, Modules\/Notepad\/NotepadTextEditor.qml:774, Modules\/Notepad\/Notepad.qml:482, Modules\/Settings\/AudioTab.qml:693",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Save Notepad File",
+        "definition": "L\u01b0u t\u1ec7p ghi ch\u00fa",
+        "context": "Save Notepad File",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/Notepad.qml:277",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Saved",
+        "definition": "\u0110\u00e3 l\u01b0u",
+        "context": "Saved",
+        "term_plural": "",
+        "reference": "Modals\/Clipboard\/ClipboardHeader.qml:52, Modules\/Notepad\/NotepadTextEditor.qml:880, Modules\/Settings\/NetworkTab.qml:1214, Modules\/ControlCenter\/Details\/NetworkDetail.qml:615",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Scale DankBar font sizes independently",
+        "definition": "\u0110i\u1ec1u ch\u1ec9nh ri\u00eang k\u00edch th\u01b0\u1edbc ph\u00f4ng ch\u1eef tr\u00ean thanh Dank",
+        "context": "Scale DankBar font sizes independently",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DankBarTab.qml:910",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Scan",
+        "definition": "Qu\u00e9t",
+        "context": "Scan",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginsTab.qml:218, Modules\/ControlCenter\/Details\/BluetoothDetail.qml:134",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Science",
+        "definition": "Khoa h\u1ecdc",
+        "context": "Science",
+        "term_plural": "",
+        "reference": "Services\/AppSearchService.qml:653",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Search for a location...",
+        "definition": "T\u00ecm v\u1ecb tr\u00ed...",
+        "context": "Search for a location...",
+        "term_plural": "",
+        "reference": "Widgets\/DankLocationSearch.qml:20",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Search plugins...",
+        "definition": "T\u00ecm plugin...",
+        "context": "Search plugins...",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginBrowser.qml:345",
+        "comment": "plugin search placeholder",
+        "fuzzy": 0
+    },
+    {
+        "term": "Search...",
+        "definition": "T\u00ecm ki\u1ebfm...",
+        "context": "Search...",
+        "term_plural": "",
+        "reference": "Widgets\/DankDropdown.qml:315, Modals\/Settings\/SettingsSidebar.qml:644, Modules\/ProcessList\/ProcessListPopout.qml:185",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Select Launcher Logo",
+        "definition": "Ch\u1ecdn logo tr\u00ecnh kh\u1edfi ch\u1ea1y",
+        "context": "Select Launcher Logo",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/LauncherTab.qml:13",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Select a color from the palette or use custom sliders",
+        "definition": "Ch\u1ecdn m\u00e0u t\u1eeb b\u1ea3ng m\u00e0u ho\u1eb7c d\u00f9ng thanh tr\u01b0\u1ee3t",
+        "context": "Select a color from the palette or use custom sliders",
+        "term_plural": "",
+        "reference": "Modals\/DankColorPickerModal.qml:223",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Select an image file...",
+        "definition": "Ch\u1ecdn t\u1ec7p h\u00ecnh \u1ea3nh...",
+        "context": "Select an image file...",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:340, Modules\/Settings\/LauncherTab.qml:132",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Select monitor to configure wallpaper",
+        "definition": "Ch\u1ecdn m\u00e0n h\u00ecnh \u00e1p d\u1ee5ng h\u00ecnh n\u1ec1n",
+        "context": "Select monitor to configure wallpaper",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WallpaperTab.qml:820",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Select monospace font for process list and technical displays",
+        "definition": "Ch\u1ecdn ph\u00f4ng ch\u1eef \u0111\u01a1n c\u00e1ch cho danh s\u00e1ch ti\u1ebfn tr\u00ecnh v\u00e0 hi\u1ec3n th\u1ecb k\u1ef9 thu\u1eadt",
+        "context": "Select monospace font for process list and technical displays",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TypographyMotionTab.qml:89",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Select which transitions to include in randomization",
+        "definition": "Ch\u1ecdn c\u00e1c hi\u1ec7u \u1ee9ng chuy\u1ec3n c\u1ea3nh \u0111\u1ec3 \u0111\u01b0a v\u00e0o ch\u1ebf \u0111\u1ed9 ng\u1eabu nhi\u00ean",
+        "context": "Select which transitions to include in randomization",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WallpaperTab.qml:1208",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Separator",
+        "definition": "D\u1ea5u ph\u00e2n c\u00e1ch",
+        "context": "Separator",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:211",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Set different wallpapers for each connected monitor",
+        "definition": "\u0110\u1eb7t h\u00ecnh n\u1ec1n ri\u00eang cho t\u1eebng m\u00e0n h\u00ecnh \u0111\u00e3 k\u1ebft n\u1ed1i",
+        "context": "Set different wallpapers for each connected monitor",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WallpaperTab.qml:802",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Set different wallpapers for light and dark mode",
+        "definition": "\u0110\u1eb7t h\u00ecnh n\u1ec1n ri\u00eang cho t\u1eebng ch\u1ebf \u0111\u1ed9 ban ng\u00e0y v\u00e0 ch\u1ebf \u0111\u1ed9 t\u1ed1i",
+        "context": "Set different wallpapers for light and dark mode",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WallpaperTab.qml:371",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Shift+Del: Clear All \u2022 Esc: Close",
+        "definition": "Shift+Del: X\u00f3a h\u1ebft \u2022 Esc: \u0110\u00f3ng",
+        "context": "Shift+Del: Clear All \u2022 Esc: Close",
+        "term_plural": "",
+        "reference": "Modals\/Clipboard\/ClipboardKeyboardHints.qml:12",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Show Dock",
+        "definition": "Hi\u1ec3n th\u1ecb Dock",
+        "context": "Show Dock",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:42",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Show Line Numbers",
+        "definition": "Hi\u1ec3n th\u1ecb s\u1ed1 d\u00f2ng",
+        "context": "Show Line Numbers",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/NotepadSettings.qml:142",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Show Workspace Apps",
+        "definition": "Hi\u1ec3n th\u1ecb \u1ee9ng d\u1ee5ng trong kh\u00f4ng gian l\u00e0m vi\u1ec7c",
+        "context": "Show Workspace Apps",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WorkspacesTab.qml:59",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Show on Overview",
+        "definition": "Hi\u1ec3n th\u1ecb trong t\u1ed5ng quan",
+        "context": "Show on Overview",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:81, Modules\/Settings\/DesktopWidgetInstanceCard.qml:312, Modules\/Settings\/DankBarTab.qml:698",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Show on all connected displays",
+        "definition": "Hi\u1ec3n th\u1ecb trong t\u1ea5t c\u1ea3 m\u00e0n h\u00ecnh \u0111\u00e3 k\u1ebft n\u1ed1i",
+        "context": "Show on all connected displays",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DisplayWidgetsTab.qml:402",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Show on screens:",
+        "definition": "Hi\u1ec3n th\u1ecb trong c\u00e1c m\u00e0n h\u00ecnh:",
+        "context": "Show on screens:",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DisplayWidgetsTab.qml:385",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Show weather information in top bar and control center",
+        "definition": "Hi\u1ec3n th\u1ecb th\u00f4ng tin th\u1eddi ti\u1ebft tr\u00ean thanh tr\u00ean v\u00e0 trung t\u00e2m \u0111i\u1ec1u khi\u1ec3n",
+        "context": "Show weather information in top bar and control center",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:401",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Shows all running applications with focus indication",
+        "definition": "Hi\u1ec3n th\u1ecb t\u1ea5t c\u1ea3 \u1ee9ng d\u1ee5ng \u0111ang ch\u1ea1y k\u00e8m ch\u1ec9 b\u00e1o \u1ee9ng d\u1ee5ng \u0111ang ch\u1ecdn",
+        "context": "Shows all running applications with focus indication",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:67",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Shows current workspace and allows switching",
+        "definition": "Hi\u1ec3n th\u1ecb kh\u00f4ng gian l\u00e0m vi\u1ec7c hi\u1ec7n t\u1ea1i v\u00e0 cho ph\u00e9p chuy\u1ec3n",
+        "context": "Shows current workspace and allows switching",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:53",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Shows when microphone, camera, or screen sharing is active",
+        "definition": "Hi\u1ec3n th\u1ecb khi mic, cam, chia s\u1ebb m\u00e0n h\u00ecnh \u0111ang ho\u1ea1t \u0111\u1ed9ng",
+        "context": "Shows when microphone, camera, or screen sharing is active",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:156",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Size",
+        "definition": "K\u00edch th\u01b0\u1edbc",
+        "context": "Size",
+        "term_plural": "",
+        "reference": "Modals\/WindowRuleModal.qml:989, Modals\/DankLauncherV2\/LauncherContent.qml:704, Modals\/DankLauncherV2\/LauncherContent.qml:709, Modals\/DankLauncherV2\/LauncherContent.qml:716, Modules\/Settings\/LauncherTab.qml:371, Modules\/Settings\/DankBarTab.qml:758, Modules\/Settings\/WindowRulesTab.qml:565",
+        "comment": "launcher size option",
+        "fuzzy": 0
+    },
+    {
+        "term": "Size Offset",
+        "definition": "\u0110\u1ed9 l\u1ec7ch k\u00edch th\u01b0\u1edbc",
+        "context": "Size Offset",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:465, Modules\/Settings\/LauncherTab.qml:257",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Spacer",
+        "definition": "Kho\u1ea3ng tr\u1ed1ng",
+        "context": "Spacer",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:204",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Spacing",
+        "definition": "Kho\u1ea3ng c\u00e1ch",
+        "context": "Spacing",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:591, Modules\/Settings\/DankBarTab.qml:710",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Square Corners",
+        "definition": "Bo g\u00f3c vu\u00f4ng",
+        "context": "Square Corners",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DankBarTab.qml:965",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Start",
+        "definition": "B\u1eaft \u0111\u1ea7u",
+        "context": "Start",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:1162, Modules\/Settings\/GammaControlTab.qml:252",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Start typing your notes here...",
+        "definition": "B\u1eaft \u0111\u1ea7u nh\u1eadp ghi ch\u00fa t\u1ea1i \u0111\u00e2y...",
+        "context": "Start typing your notes here...",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/NotepadTextEditor.qml:634",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Status",
+        "definition": "Tr\u1ea1ng th\u00e1i",
+        "context": "Status",
+        "term_plural": "",
+        "reference": "Widgets\/DankIconPicker.qml:55, Modules\/Settings\/AboutTab.qml:698, Modules\/Settings\/PrinterTab.qml:186, Modules\/Settings\/NetworkTab.qml:182",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Surface",
+        "definition": "Kh\u1ea3o s\u00e1t",
+        "context": "Surface",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:389, Modules\/Settings\/DockTab.qml:660, Modules\/Settings\/LauncherTab.qml:181, Modules\/Settings\/WorkspacesTab.qml:369, Modules\/Settings\/DankBarTab.qml:1510",
+        "comment": "color option | shadow color option",
+        "fuzzy": 0
+    },
+    {
+        "term": "Suspend",
+        "definition": "Ng\u1ee7",
+        "context": "Suspend",
+        "term_plural": "",
+        "reference": "Modals\/PowerMenuModal.qml:204, Modules\/Lock\/LockPowerMenu.qml:122, Modules\/Settings\/PowerSleepTab.qml:344, Modules\/Settings\/PowerSleepTab.qml:411",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Suspend system after",
+        "definition": "\u0110\u01b0a h\u1ec7 th\u1ed1ng v\u00e0o ch\u1ebf \u0111\u1ed9 ng\u1ee7 sau",
+        "context": "Suspend system after",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PowerSleepTab.qml:300",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Switch User",
+        "definition": "Chuy\u1ec3n ng\u01b0\u1eddi d\u00f9ng",
+        "context": "Switch User",
+        "term_plural": "",
+        "reference": "Modules\/Greetd\/GreeterContent.qml:1206",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "System",
+        "definition": "H\u1ec7 th\u1ed1ng",
+        "context": "System",
+        "term_plural": "",
+        "reference": "Modals\/ProcessListModal.qml:319, Modals\/ProcessListModal.qml:377, Services\/AppSearchService.qml:655, Widgets\/DankIconPicker.qml:43, Modals\/Settings\/SettingsSidebar.qml:240, Modules\/ProcessList\/ProcessListPopout.qml:155",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "System App Theming",
+        "definition": "Ch\u1ee7 \u0111\u1ec1 \u1ee9ng d\u1ee5ng h\u1ec7 th\u1ed1ng",
+        "context": "System App Theming",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:2911",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "System Monitor Unavailable",
+        "definition": "Tr\u00ecnh gi\u00e1m s\u00e1t h\u1ec7 th\u1ed1ng kh\u00f4ng kh\u1ea3 d\u1ee5ng",
+        "context": "System Monitor Unavailable",
+        "term_plural": "",
+        "reference": "Modals\/ProcessListModal.qml:214",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "System Tray",
+        "definition": "B\u1ea3ng h\u1ec7 th\u1ed1ng",
+        "context": "System Tray",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:148",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "System Update",
+        "definition": "C\u1eadp nh\u1eadt h\u1ec7 th\u1ed1ng",
+        "context": "System Update",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:246",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "System Updates",
+        "definition": "C\u1eadp nh\u1eadt h\u1ec7 th\u1ed1ng",
+        "context": "System Updates",
+        "term_plural": "",
+        "reference": "Modules\/DankBar\/Popouts\/SystemUpdatePopout.qml:86",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "System notification area icons",
+        "definition": "Bi\u1ec3u t\u01b0\u1ee3ng khu v\u1ef1c th\u00f4ng b\u00e1o h\u1ec7 th\u1ed1ng",
+        "context": "System notification area icons",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:149",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Tab\/Shift+Tab: Nav \u2022 \u2190\u2192\u2191\u2193: Grid Nav \u2022 Enter\/Space: Select",
+        "definition": "Tab\/Shift+Tab: \u0110i\u1ec1u h\u01b0\u1edbng \u2022 \u2190\u2192\u2191\u2193: \u0110i\u1ec1u h\u01b0\u1edbng ki\u1ec3u l\u01b0\u1edbi \u2022 Enter\/Space: Ch\u1ecdn",
+        "context": "Tab\/Shift+Tab: Nav \u2022 \u2190\u2192\u2191\u2193: Grid Nav \u2022 Enter\/Space: Select",
+        "term_plural": "",
+        "reference": "Modals\/FileBrowser\/KeyboardHints.qml:26",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Text",
+        "definition": "V\u0103n b\u1ea3n",
+        "context": "Text",
+        "term_plural": "",
+        "reference": "Modals\/Clipboard\/ClipboardEntry.qml:120, Modules\/Settings\/LauncherTab.qml:479",
+        "comment": "text color",
+        "fuzzy": 0
+    },
+    {
+        "term": "The DMS_SOCKET environment variable is not set or the socket is unavailable. Automated plugin management requires the DMS_SOCKET.",
+        "definition": "DMS_SOCKET ch\u01b0a \u0111\u01b0\u1ee3c thi\u1ebft l\u1eadp ho\u1eb7c socket kh\u00f4ng kh\u1ea3 d\u1ee5ng. Qu\u1ea3n l\u00fd plugin t\u1ef1 \u0111\u1ed9ng c\u1ea7n DMS_SOCKET.",
+        "context": "The DMS_SOCKET environment variable is not set or the socket is unavailable. Automated plugin management requires the DMS_SOCKET.",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginsTab.qml:124",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "The below settings will modify your GTK and Qt settings. If you wish to preserve your current configurations, please back them up (qt5ct.conf|qt6ct.conf and ~\/.config\/gtk-3.0|gtk-4.0).",
+        "definition": "C\u00e1c thi\u1ebft l\u1eadp d\u01b0\u1edbi \u0111\u00e2y s\u1ebd thay \u0111\u1ed5i GTK v\u00e0 Qt. H\u00e3y sao l\u01b0u c\u1ea5u h\u00ecnh hi\u1ec7n t\u1ea1i n\u1ebfu c\u1ea7n (qt5ct.conf|qt6ct.conf v\u00e0 ~\/.config\/gtk-3.0|gtk-4.0).",
+        "context": "The below settings will modify your GTK and Qt settings. If you wish to preserve your current configurations, please back them up (qt5ct.conf|qt6ct.conf and ~\/.config\/gtk-3.0|gtk-4.0).",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:2900",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Theme & Colors",
+        "definition": "Ch\u1ee7 \u0111\u1ec1 % m\u00e0u",
+        "context": "Theme & Colors",
+        "term_plural": "",
+        "reference": "Modals\/Greeter\/GreeterCompletePage.qml:389, Modals\/Settings\/SettingsSidebar.qml:82",
+        "comment": "greeter settings link",
+        "fuzzy": 0
+    },
+    {
+        "term": "Theme Color",
+        "definition": "M\u00e0u ch\u1ee7 \u0111\u1ec1",
+        "context": "Theme Color",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:209",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Third-Party Plugin Warning",
+        "definition": "C\u1ea3nh b\u00e1o plugin b\u00ean th\u1ee9 3",
+        "context": "Third-Party Plugin Warning",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginBrowser.qml:735, Modules\/Settings\/PluginBrowser.qml:769",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "This widget prevents GPU power off states, which can significantly impact battery life on laptops. It is not recommended to use this on laptops with hybrid graphics.",
+        "definition": "Widget n\u00e0y ng\u0103n GPU t\u1eaft ngu\u1ed3n, c\u00f3 th\u1ec3 l\u00e0m gi\u1ea3m \u0111\u00e1ng k\u1ec3 th\u1eddi l\u01b0\u1ee3ng pin. Kh\u00f4ng khuy\u1ebfn ngh\u1ecb d\u00f9ng tr\u00ean laptop c\u00f3 card hybrid.",
+        "context": "This widget prevents GPU power off states, which can significantly impact battery life on laptops. It is not recommended to use this on laptops with hybrid graphics.",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:143",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "This will permanently delete all clipboard history.",
+        "definition": "Thao t\u00e1c n\u00e0y s\u1ebd x\u00f3a s\u1ea1ch b\u1ea3ng nh\u1edb t\u1ea1m",
+        "context": "This will permanently delete all clipboard history.",
+        "term_plural": "",
+        "reference": "Modals\/Clipboard\/ClipboardContent.qml:37, Modules\/DankBar\/DankBarContent.qml:638",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Today",
+        "definition": "H\u00f4m nay",
+        "context": "Today",
+        "term_plural": "",
+        "reference": "Services\/WeatherService.qml:441, Modules\/Notifications\/Center\/HistoryNotificationList.qml:97",
+        "comment": "notification history filter",
+        "fuzzy": 0
+    },
+    {
+        "term": "Tomorrow",
+        "definition": "Ng\u00e0y mai",
+        "context": "Tomorrow",
+        "term_plural": "",
+        "reference": "Services\/WeatherService.qml:443",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Top Bar Format",
+        "definition": "\u0110\u1ecbnh d\u1ea1ng thanh tr\u00ean",
+        "context": "Top Bar Format",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:129",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Transition Effect",
+        "definition": "Hi\u1ec7u \u1ee9ng chuy\u1ec3n ti\u1ebfp",
+        "context": "Transition Effect",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WallpaperTab.qml:1153",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Turn off monitors after",
+        "definition": "T\u1eaft m\u00e0n h\u00ecnh sau",
+        "context": "Turn off monitors after",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PowerSleepTab.qml:234",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Unpin from Dock",
+        "definition": "B\u1ecf ghim kh\u1ecfi dock",
+        "context": "Unpin from Dock",
+        "term_plural": "",
+        "reference": "Modals\/DankLauncherV2\/LauncherContextMenu.qml:103, Modules\/Dock\/DockContextMenu.qml:231, Modules\/DankBar\/Widgets\/AppsDockContextMenu.qml:350",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Unsaved Changes",
+        "definition": "Thay \u0111\u1ed5i ch\u01b0a l\u01b0u",
+        "context": "Unsaved Changes",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/Notepad.qml:406",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Unsaved changes",
+        "definition": "Thay \u0111\u1ed5i ch\u01b0a l\u01b0u",
+        "context": "Unsaved changes",
+        "term_plural": "",
+        "reference": "Widgets\/KeybindItem.qml:1807, Modules\/Notepad\/NotepadTextEditor.qml:877",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Unsaved note...",
+        "definition": "Ghi ch\u00fa ch\u01b0a l\u01b0u...",
+        "context": "Unsaved note...",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/NotepadTextEditor.qml:875",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Untitled",
+        "definition": "Ch\u01b0a c\u00f3 ti\u00eau \u0111\u1ec1",
+        "context": "Untitled",
+        "term_plural": "",
+        "reference": "Services\/NotepadStorageService.qml:80, Services\/NotepadStorageService.qml:180, Services\/NotepadStorageService.qml:221",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Update All",
+        "definition": "C\u1eadp nh\u1eadt t\u1ea5t c\u1ea3",
+        "context": "Update All",
+        "term_plural": "",
+        "reference": "Modules\/DankBar\/Popouts\/SystemUpdatePopout.qml:189",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Use 24-hour time format instead of 12-hour AM\/PM",
+        "definition": "D\u00f9ng \u0111\u1ecbnh d\u1ea1ng 24 gi\u1edd thay cho 12 gi\u1edd AM\/PM",
+        "context": "Use 24-hour time format instead of 12-hour AM\/PM",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:54",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Use Monospace Font",
+        "definition": "D\u00f9ng ph\u00f4ng ch\u1eef \u0111\u01a1n c\u00e1ch",
+        "context": "Use Monospace Font",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/NotepadSettings.qml:130",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Use light theme instead of dark theme",
+        "definition": "D\u00f9ng ch\u1ee7 \u0111\u1ec1 ban ng\u00e0y thay cho t\u1ed1i",
+        "context": "Use light theme instead of dark theme",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:1486",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Uses sunrise\/sunset times to automatically adjust night mode based on your location.",
+        "definition": "T\u1ef1 \u0111\u1ed9ng \u0111i\u1ec1u ch\u1ec9nh ch\u1ebf \u0111\u1ed9 ban \u0111\u00eam d\u1ef1a tr\u00ean v\u1ecb tr\u00ed b\u1eb1ng c\u00e1ch x\u00e1c \u0111\u1ecbnh gi\u1edd b\u00ecnh minh\/ho\u00e0ng h\u00f4n.",
+        "context": "Uses sunrise\/sunset times to automatically adjust night mode based on your location.",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/GammaControlTab.qml:423",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Utilities",
+        "definition": "Ti\u1ec7n \u00edch",
+        "context": "Utilities",
+        "term_plural": "",
+        "reference": "Services\/AppSearchService.qml:656, Services\/AppSearchService.qml:657, Services\/AppSearchService.qml:658, Services\/AppSearchService.qml:659",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "VPN",
+        "definition": "VPN",
+        "context": "VPN",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTabSection.qml:1239, Modules\/Settings\/WidgetsTabSection.qml:1468, Modules\/Settings\/WidgetsTab.qml:183, Modules\/Settings\/NetworkTab.qml:1544, Modules\/ControlCenter\/Models\/WidgetModel.qml:187, Modules\/ControlCenter\/BuiltinPlugins\/VpnWidget.qml:15",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "VPN Connections",
+        "definition": "K\u1ebft n\u1ed1i VPN",
+        "context": "VPN Connections",
+        "term_plural": "",
+        "reference": "Modules\/DankBar\/Popouts\/VpnPopout.qml:64",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "VPN status and quick connect",
+        "definition": "Tr\u1ea1ng th\u00e1i VPN v\u00e0 k\u1ebft n\u1ed1i nhanh",
+        "context": "VPN status and quick connect",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:184",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Visibility",
+        "definition": "Hi\u1ec3n th\u1ecb",
+        "context": "Visibility",
+        "term_plural": "",
+        "reference": "Modules\/DankDash\/WeatherForecastCard.qml:100, Modules\/Settings\/TimeWeatherTab.qml:1128, Modules\/Settings\/DankBarTab.qml:589",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Visual divider between widgets",
+        "definition": "V\u1ea1ch ph\u00e2n c\u00e1ch gi\u1eefa c\u00e1c ti\u1ec7n \u00edch",
+        "context": "Visual divider between widgets",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:212",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Visual effect used when wallpaper changes",
+        "definition": "Hi\u1ec7u \u1ee9ng khi \u0111\u1ed5i h\u00ecnh n\u1ec1n",
+        "context": "Visual effect used when wallpaper changes",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WallpaperTab.qml:1154",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Wallpaper",
+        "definition": "H\u00ecnh n\u1ec1n",
+        "context": "Wallpaper",
+        "term_plural": "",
+        "reference": "Widgets\/KeybindItem.qml:1097, Widgets\/KeybindItem.qml:1104, Widgets\/KeybindItem.qml:1113, Modals\/Greeter\/GreeterCompletePage.qml:381, Modals\/Settings\/SettingsSidebar.qml:76, Modules\/Settings\/DisplayWidgetsTab.qml:43, Modules\/Settings\/WallpaperTab.qml:63",
+        "comment": "greeter settings link",
+        "fuzzy": 0
+    },
+    {
+        "term": "Wave Progress Bars",
+        "definition": "Thanh ti\u1ebfn tr\u00ecnh",
+        "context": "Wave Progress Bars",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/MediaPlayerTab.qml:29",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Weather",
+        "definition": "Th\u1eddi ti\u1ebft",
+        "context": "Weather",
+        "term_plural": "",
+        "reference": "Widgets\/KeybindItem.qml:1099, Widgets\/KeybindItem.qml:1104, Widgets\/KeybindItem.qml:1116, Modules\/DankDash\/DankDashPopout.qml:287, Modules\/Settings\/TimeWeatherTab.qml:392",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Weather Widget",
+        "definition": "Ti\u1ec7n \u00edch th\u1eddi gian",
+        "context": "Weather Widget",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:87",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "WiFi is off",
+        "definition": "WiFi \u0111ang t\u1eaft",
+        "context": "WiFi is off",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Details\/NetworkDetail.qml:225",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Widget Management",
+        "definition": "Qu\u1ea3n l\u00fd ti\u1ec7n \u00edch",
+        "context": "Widget Management",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:880",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Widget Styling",
+        "definition": "Ki\u1ec3u ti\u1ec7n \u00edch",
+        "context": "Widget Styling",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:1498",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Wind",
+        "definition": "Gi\u00f3",
+        "context": "Wind",
+        "term_plural": "",
+        "reference": "dms-plugins\/DankDesktopWeather\/DankDesktopWeather.qml:425, Modules\/DankDash\/WeatherTab.qml:89, Modules\/Settings\/TimeWeatherTab.qml:977",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Workspace",
+        "definition": "Kh\u00f4ng gian l\u00e0m vi\u1ec7c",
+        "context": "Workspace",
+        "term_plural": "",
+        "reference": "Modals\/WindowRuleModal.qml:586, Modals\/WindowRuleModal.qml:1076, Widgets\/DankIconPicker.qml:27, Modules\/Settings\/DankBarTab.qml:1591, Modules\/Settings\/DankBarTab.qml:1591, Modules\/Settings\/DankBarTab.qml:1628, Modules\/Settings\/WindowRulesTab.qml:541, Modules\/Settings\/WindowRulesTab.qml:568",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Workspace Index Numbers",
+        "definition": "S\u1ed1 th\u1ee9 t\u1ef1 kh\u00f4ng gian l\u00e0m vi\u1ec7c",
+        "context": "Workspace Index Numbers",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WorkspacesTab.qml:32",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Workspace Padding",
+        "definition": "Kho\u1ea3ng \u0111\u1ec7m kh\u00f4ng gian l\u00e0m vi\u1ec7c",
+        "context": "Workspace Padding",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WorkspacesTab.qml:50",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Workspace Settings",
+        "definition": "C\u00e0i \u0111\u1eb7t kh\u00f4ng gian l\u00e0m vi\u1ec7c",
+        "context": "Workspace Settings",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WorkspacesTab.qml:26",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Workspace Switcher",
+        "definition": "Chuy\u1ec3n kh\u00f4ng gian l\u00e0m vi\u1ec7c",
+        "context": "Workspace Switcher",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:52",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "You have unsaved changes. Save before closing this tab?",
+        "definition": "B\u1ea1n c\u00f3 nh\u1eefng thay \u0111\u1ed5i ch\u01b0a l\u01b0u. L\u01b0u tr\u01b0\u1edbc khi \u0111\u00f3ng tab?",
+        "context": "You have unsaved changes. Save before closing this tab?",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/Notepad.qml:413",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "You have unsaved changes. Save before continuing?",
+        "definition": "B\u1ea1n c\u00f3 nh\u1eefng thay \u0111\u1ed5i ch\u01b0a l\u01b0u. L\u01b0u tr\u01b0\u1edbc khi ti\u1ebfp t\u1ee5c?",
+        "context": "You have unsaved changes. Save before continuing?",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/Notepad.qml:413",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "You have unsaved changes. Save before creating a new file?",
+        "definition": "B\u1ea1n c\u00f3 nh\u1eefng thay \u0111\u1ed5i ch\u01b0a l\u01b0u. L\u01b0u tr\u01b0\u1edbc khi t\u1ea1o t\u1ec7p m\u1edbi?",
+        "context": "You have unsaved changes. Save before creating a new file?",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/Notepad.qml:413",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "You have unsaved changes. Save before opening a file?",
+        "definition": "B\u1ea1n c\u00f3 nh\u1eefng thay \u0111\u1ed5i ch\u01b0a l\u01b0u. L\u01b0u tr\u01b0\u1edbc khi m\u1edf t\u1ec7p?",
+        "context": "You have unsaved changes. Save before opening a file?",
+        "term_plural": "",
+        "reference": "Modules\/Notepad\/Notepad.qml:413",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "official",
+        "definition": "ch\u00ednh t\u1ee9c",
+        "context": "official",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginBrowser.qml:509, Modules\/Settings\/ThemeBrowser.qml:494",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "update dms for NM integration.",
+        "definition": "c\u1eadp nh\u1eadt DMS \u0111\u1ec3 t\u00edch h\u1ee3p v\u1edbi NM.",
+        "context": "update dms for NM integration.",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Components\/DragDropGrid.qml:225",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "\u2022 Install only from trusted sources",
+        "definition": "\u2022 Ch\u1ec9 c\u00e0i \u0111\u1eb7t t\u1eeb ngu\u1ed3n \u0111\u00e1ng tin",
+        "context": "\u2022 Install only from trusted sources",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginBrowser.qml:816",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "\u2022 M - Month (1-12)",
+        "definition": "\u2022 m - Th\u00e1ng (1-12)",
+        "context": "\u2022 M - Month (1-12)",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:348",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "\u2022 MM - Month (01-12)",
+        "definition": "\u2022 mm - Th\u00e1ng (01-12)",
+        "context": "\u2022 MM - Month (01-12)",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:359",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "\u2022 MMM - Month (Jan)",
+        "definition": "\u2022 mmm - Th\u00e1ng (Thg 1)",
+        "context": "\u2022 MMM - Month (Jan)",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:364",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "\u2022 MMMM - Month (January)",
+        "definition": "\u2022 mmmm - Th\u00e1ng (Th\u00e1ng 1)",
+        "context": "\u2022 MMMM - Month (January)",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:369",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "\u2022 Plugins may contain bugs or security issues",
+        "definition": "\u2022 Plugin c\u00f3 th\u1ec3 c\u00f3 l\u1ed7i ho\u1eb7c r\u1ee7i ro b\u1ea3o m\u1eadt",
+        "context": "\u2022 Plugins may contain bugs or security issues",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginBrowser.qml:804",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "\u2022 Review code before installation when possible",
+        "definition": "\u2022 N\u1ebfu c\u00f3 th\u1ec3, h\u00e3y xem m\u00e3 ngu\u1ed3n tr\u01b0\u1edbc khi c\u00e0i \u0111\u1eb7t",
+        "context": "\u2022 Review code before installation when possible",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PluginBrowser.qml:810",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "\u2022 d - Day (1-31)",
+        "definition": "\u2022 d - Ng\u00e0y (1-31)",
+        "context": "\u2022 d - Day (1-31)",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:328",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "\u2022 dd - Day (01-31)",
+        "definition": "\u2022 dd - Ng\u00e0y (01-31)",
+        "context": "\u2022 dd - Day (01-31)",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:333",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "\u2022 ddd - Day name (Mon)",
+        "definition": "\u2022 ddd - T\u00ean ng\u00e0y (T2)",
+        "context": "\u2022 ddd - Day name (Mon)",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:338",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "\u2022 dddd - Day name (Monday)",
+        "definition": "\u2022 dddd - T\u00ean ng\u00e0y (Th\u1ee9 2)",
+        "context": "\u2022 dddd - Day name (Monday)",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:343",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "\u2022 yy - Year (24)",
+        "definition": "\u2022 yy - N\u0103m (26)",
+        "context": "\u2022 yy - Year (24)",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:374",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "\u2022 yyyy - Year (2024)",
+        "definition": "\u2022 yyyy - N\u0103m (2026)",
+        "context": "\u2022 yyyy - Year (2024)",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:379",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Border Color",
+        "definition": "M\u00e0u vi\u1ec1n",
+        "context": "Border Color",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:657, Modules\/Settings\/WorkspacesTab.qml:368",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Border Opacity",
+        "definition": "\u0110\u1ed9 m\u1edd vi\u1ec1n",
+        "context": "Border Opacity",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:694",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Border Thickness",
+        "definition": "\u0110\u1ed9 \u0111\u1eadm vi\u1ec1n",
+        "context": "Border Thickness",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:705",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Choose the border accent color",
+        "definition": "Ch\u1ecdn m\u00e0u n\u1ed5i b\u1eadt cho vi\u1ec1n",
+        "context": "Choose the border accent color",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:658",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Enable loginctl lock integration",
+        "definition": "B\u1eadt t\u00edch h\u1ee3p kh\u00f3a b\u1eb1ng loginctl",
+        "context": "Enable loginctl lock integration",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/LockScreenTab.qml:177",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Run User Templates",
+        "definition": "Ch\u1ea1y m\u1eabu ng\u01b0\u1eddi d\u00f9ng",
+        "context": "Run User Templates",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:2512",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Current Weather",
+        "definition": "Th\u1eddi ti\u1ebft hi\u1ec7n t\u1ea1i",
+        "context": "Current Weather",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/TimeWeatherTab.qml:633",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "DMS out of date",
+        "definition": "DMS \u0111\u00e3 l\u1ed7i th\u1eddi",
+        "context": "DMS out of date",
+        "term_plural": "",
+        "reference": "Services\/DMSService.qml:320",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Gamma Control",
+        "definition": "\u0110i\u1ec1u ch\u1ec9nh gamma",
+        "context": "Gamma Control",
+        "term_plural": "",
+        "reference": "Modals\/Settings\/SettingsSidebar.qml:219, Modules\/Settings\/GammaControlTab.qml:64",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Time & Weather",
+        "definition": "Th\u1eddi gian & th\u1eddi ti\u1ebft",
+        "context": "Time & Weather",
+        "term_plural": "",
+        "reference": "Modals\/Settings\/SettingsSidebar.qml:94",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "To update, run the following command:",
+        "definition": "\u0110\u1ec3 c\u1eadp nh\u1eadt, h\u00e3y ch\u1ea1y l\u1ec7nh sau:",
+        "context": "To update, run the following command:",
+        "term_plural": "",
+        "reference": "Services\/DMSService.qml:320",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "loginctl not available - lock integration requires DMS socket connection",
+        "definition": "loginctl kh\u00f4ng kh\u1ea3 d\u1ee5ng - t\u00edch h\u1ee3p kh\u00f3a y\u00eau c\u1ea7u k\u1ebft n\u1ed1i socket DMS",
+        "context": "loginctl not available - lock integration requires DMS socket connection",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/LockScreenTab.qml:166",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Auto Popup Gaps",
+        "definition": "T\u1ef1 \u0111\u1ed9ng kho\u1ea3ng c\u00e1ch c\u1eeda s\u1ed5 n\u1ed5i",
+        "context": "Auto Popup Gaps",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DankBarTab.qml:809",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Manual Gap Size",
+        "definition": "K\u00edch th\u01b0\u1edbc kho\u1ea3ng c\u00e1ch th\u1ee7 c\u00f4ng",
+        "context": "Manual Gap Size",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DankBarTab.qml:834",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "System Updater",
+        "definition": "Tr\u00ecnh c\u1eadp nh\u1eadt h\u1ec7 th\u1ed1ng",
+        "context": "System Updater",
+        "term_plural": "",
+        "reference": "Modals\/Settings\/SettingsSidebar.qml:165, Modules\/Settings\/SystemUpdaterTab.qml:67",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "System update custom command",
+        "definition": "L\u1ec7nh c\u1eadp nh\u1eadt h\u1ec7 th\u1ed1ng t\u00f9y ch\u1ec9nh",
+        "context": "System update custom command",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/SystemUpdaterTab.qml:64",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Terminal custom additional parameters",
+        "definition": "Tham s\u1ed1 b\u1ed5 sung t\u00f9y ch\u1ec9nh cho h\u1ed9p l\u1ec7nh",
+        "context": "Terminal custom additional parameters",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/SystemUpdaterTab.qml:108",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Use Custom Command",
+        "definition": "D\u00f9ng l\u1ec7nh t\u00f9y ch\u1ec9nh",
+        "context": "Use Custom Command",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/MuxTab.qml:56",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Use custom command for update your system",
+        "definition": "D\u00f9ng l\u1ec7nh t\u00f9y ch\u1ec9nh \u0111\u1ec3 c\u1eadp nh\u1eadt h\u1ec7 th\u1ed1ng",
+        "context": "Use custom command for update your system",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/SystemUpdaterTab.qml:39",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "1 event",
+        "definition": "1 s\u1ef1 ki\u1ec7n",
+        "context": "1 event",
+        "term_plural": "",
+        "reference": "Modules\/DankDash\/Overview\/CalendarOverviewCard.qml:178",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "All day",
+        "definition": "C\u1ea3 ng\u00e0y",
+        "context": "All day",
+        "term_plural": "",
+        "reference": "Modules\/DankDash\/Overview\/CalendarOverviewCard.qml:496",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Anonymous Identity (optional)",
+        "definition": "ID \u1ea9n danh (t\u00f9y ch\u1ecdn)",
+        "context": "Anonymous Identity (optional)",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:590",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Automatically lock the screen when the system prepares to suspend",
+        "definition": "T\u1ef1 \u0111\u1ed9ng kh\u00f3a m\u00e0n h\u00ecnh khi h\u1ec7 th\u1ed1ng chu\u1ea9n b\u1ecb chuy\u1ec3n sang ch\u1ebf \u0111\u1ed9 ng\u1ee7",
+        "context": "Automatically lock the screen when the system prepares to suspend",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PowerSleepTab.qml:93, Modules\/Settings\/LockScreenTab.qml:192",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Bind lock screen to dbus signals from loginctl. Disable if using an external lock screen",
+        "definition": "Li\u00ean k\u1ebft kh\u00f3a m\u00e0n h\u00ecnh v\u1edbi t\u00edn hi\u1ec7u dbus t\u1eeb loginctl. T\u1eaft n\u1ebfu d\u00f9ng kh\u00f3a m\u00e0n h\u00ecnh b\u00ean ngo\u00e0i",
+        "context": "Bind lock screen to dbus signals from loginctl. Disable if using an external lock screen",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/LockScreenTab.qml:178",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Enable System Sounds",
+        "definition": "B\u1eadt \u00e2m thanh h\u1ec7 th\u1ed1ng",
+        "context": "Enable System Sounds",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/SoundsTab.qml:36",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Enable fingerprint authentication",
+        "definition": "B\u1eadt x\u00e1c minh v\u00e2n tay",
+        "context": "Enable fingerprint authentication",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/LockScreenTab.qml:228",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Enter credentials for ",
+        "definition": "Nh\u1eadp th\u00f4ng tin x\u00e1c th\u1ef1c cho ",
+        "context": "Enter credentials for ",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:353, Modals\/WifiPasswordModal.qml:358",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Enter password for ",
+        "definition": "Nh\u1eadp m\u1eadt kh\u1ea9u cho ",
+        "context": "Enter password for ",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:355, Modals\/WifiPasswordModal.qml:358",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "New Notification",
+        "definition": "Th\u00f4ng b\u00e1o m\u1edbi",
+        "context": "New Notification",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/SoundsTab.qml:108",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Password",
+        "definition": "M\u1eadt kh\u1ea9u",
+        "context": "Password",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:174, Modals\/WifiPasswordModal.qml:184, Modals\/WifiPasswordModal.qml:553",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Play sound when new notification arrives",
+        "definition": "Ph\u00e1t \u00e2m thanh khi c\u00f3 th\u00f4ng b\u00e1o m\u1edbi",
+        "context": "Play sound when new notification arrives",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/SoundsTab.qml:109",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Play sound when power cable is connected",
+        "definition": "Ph\u00e1t \u00e2m thanh khi c\u1eafm ngu\u1ed3n",
+        "context": "Play sound when power cable is connected",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/SoundsTab.qml:130",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Play sound when volume is adjusted",
+        "definition": "Ph\u00e1t \u00e2m thanh khi t\u0103ng gi\u1ea3m \u00e2m l\u01b0\u1ee3ng",
+        "context": "Play sound when volume is adjusted",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/SoundsTab.qml:119",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Play sounds for system events",
+        "definition": "Ph\u00e1t \u00e2m thanh cho c\u00e1c s\u1ef1 ki\u1ec7n h\u1ec7 th\u1ed1ng",
+        "context": "Play sounds for system events",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/SoundsTab.qml:37",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Plugged In",
+        "definition": "K\u1ebft n\u1ed1i",
+        "context": "Plugged In",
+        "term_plural": "",
+        "reference": "Services\/BatteryService.qml:159, Services\/BatteryService.qml:165, Modules\/Settings\/SoundsTab.qml:129",
+        "comment": "battery status",
+        "fuzzy": 0
+    },
+    {
+        "term": "Power & Security",
+        "definition": "Ngu\u1ed3n & b\u1ea3o m\u1eadt",
+        "context": "Power & Security",
+        "term_plural": "",
+        "reference": "Modals\/Settings\/SettingsSidebar.qml:287, Modals\/Settings\/SettingsSidebar.qml:572",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Power Action Confirmation",
+        "definition": "X\u00e1c nh\u1eadn h\u00e0nh \u0111\u1ed9ng ngu\u1ed3n",
+        "context": "Power Action Confirmation",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PowerSleepTab.qml:499",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Sort Alphabetically",
+        "definition": "S\u1eafp x\u1ebfp t\u1eeb A > Z",
+        "context": "Sort Alphabetically",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/LauncherTab.qml:341",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Username",
+        "definition": "T\u00ean ng\u01b0\u1eddi d\u00f9ng",
+        "context": "Username",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:172, Modals\/WifiPasswordModal.qml:520, Widgets\/VpnProfileDelegate.qml:45, Modules\/Settings\/NetworkTab.qml:1910",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Volume Changed",
+        "definition": "\u00c2m l\u01b0\u1ee3ng \u0111\u00e3 thay \u0111\u1ed5i",
+        "context": "Volume Changed",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/SoundsTab.qml:118",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "When enabled, apps are sorted alphabetically. When disabled, apps are sorted by usage frequency.",
+        "definition": "Khi b\u1eadt, \u1ee9ng d\u1ee5ng \u0111\u01b0\u1ee3c s\u1eafp x\u1ebfp theo b\u1ea3ng ch\u1eef c\u00e1i. Khi t\u1eaft, \u1ee9ng d\u1ee5ng \u0111\u01b0\u1ee3c s\u1eafp x\u1ebfp theo t\u1ea7n su\u1ea5t s\u1eed d\u1ee5ng.",
+        "context": "When enabled, apps are sorted alphabetically. When disabled, apps are sorted by usage frequency.",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/LauncherTab.qml:342",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "events",
+        "definition": "s\u1ef1 ki\u1ec7n",
+        "context": "events",
+        "term_plural": "",
+        "reference": "Modules\/DankDash\/Overview\/CalendarOverviewCard.qml:178",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Select system sound theme",
+        "definition": "Ch\u1ecdn ch\u1ee7 \u0111\u1ec1 \u00e2m thanh h\u1ec7 th\u1ed1ng",
+        "context": "Select system sound theme",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/SoundsTab.qml:72",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Sound Theme",
+        "definition": "Ch\u1ee7 \u0111\u1ec1 \u00e2m thanh",
+        "context": "Sound Theme",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/SoundsTab.qml:71",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Use System Theme",
+        "definition": "D\u00f9ng ch\u1ee7 \u0111\u1ec1 h\u1ec7 th\u1ed1ng",
+        "context": "Use System Theme",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/SoundsTab.qml:59",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Use sound theme from system settings",
+        "definition": "D\u00f9ng ch\u1ee7 \u0111\u1ec1 \u00e2m thanh t\u1eeb c\u00e0i \u0111\u1eb7t h\u1ec7 th\u1ed1ng",
+        "context": "Use sound theme from system settings",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/SoundsTab.qml:60",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Custom Power Actions",
+        "definition": "T\u00f9y ch\u1ec9nh h\u00e0nh \u0111\u1ed9ng ngu\u1ed3n",
+        "context": "Custom Power Actions",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PowerSleepTab.qml:540",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Icon Size",
+        "definition": "K\u00edch c\u1ee1 bi\u1ec3u t\u01b0\u1ee3ng",
+        "context": "Icon Size",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:578, Modules\/Settings\/WorkspacesTab.qml:109",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Individual Batteries",
+        "definition": "Pin ri\u00eang",
+        "context": "Individual Batteries",
+        "term_plural": "",
+        "reference": "Modules\/DankBar\/Popouts\/BatteryPopout.qml:358",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Left",
+        "definition": "Tr\u00e1i",
+        "context": "Left",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DockTab.qml:102, Modules\/Settings\/DankBarTab.qml:288, Modules\/Settings\/DankBarTab.qml:435, Modules\/DankBar\/Popouts\/BatteryPopout.qml:520",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Sync Mode with Portal",
+        "definition": "Ch\u1ebf \u0111\u1ed9 \u0111\u1ed3ng b\u1ed9 v\u1edbi Portal",
+        "context": "Sync Mode with Portal",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:2265",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Sync dark mode with settings portals for system-wide theme hints",
+        "definition": "\u0110\u1ed3ng b\u1ed9 ch\u1ebf \u0111\u1ed9 t\u1ed1i v\u1edbi c\u00e1c portal c\u00e0i \u0111\u1eb7t \u0111\u1ec3 \u00e1p d\u1ee5ng g\u1ee3i \u00fd giao di\u1ec7n to\u00e0n h\u1ec7 th\u1ed1ng",
+        "context": "Sync dark mode with settings portals for system-wide theme hints",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:2266",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "To Full",
+        "definition": "To\u00e0n b\u1ed9",
+        "context": "To Full",
+        "term_plural": "",
+        "reference": "Modules\/DankBar\/Popouts\/BatteryPopout.qml:520",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Domain (optional)",
+        "definition": "T\u00ean mi\u1ec1n (t\u00f9y ch\u1ecdn)",
+        "context": "Domain (optional)",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:621",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Always show a minimum of 3 workspaces, even if fewer are available",
+        "definition": "Lu\u00f4n hi\u1ec3n th\u1ecb t\u1ed1i thi\u1ec3u 3 kh\u00f4ng gian l\u00e0m vi\u1ec7c, ngay c\u1ea3 khi c\u00f3 \u00edt h\u01a1n",
+        "context": "Always show a minimum of 3 workspaces, even if fewer are available",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WorkspacesTab.qml:51",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Application Dock",
+        "definition": "Thanh dock \u1ee9ng d\u1ee5ng",
+        "context": "Application Dock",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DisplayWidgetsTab.qml:31",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Apply warm color temperature to reduce eye strain. Use automation settings below to control when it activates.",
+        "definition": "\u00c1p d\u1ee5ng nhi\u1ec7t \u0111\u1ed9 m\u00e0u \u1ea5m \u0111\u1ec3 gi\u1ea3m m\u1ecfi m\u1eaft. D\u00f9ng c\u00e0i \u0111\u1eb7t t\u1ef1 \u0111\u1ed9ng b\u00ean d\u01b0\u1edbi \u0111\u1ec3 ki\u1ec3m so\u00e1t th\u1eddi \u0111i\u1ec3m k\u00edch ho\u1ea1t.",
+        "context": "Apply warm color temperature to reduce eye strain. Use automation settings below to control when it activates.",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/GammaControlTab.qml:77",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Balanced palette with focused accents (default).",
+        "definition": "B\u1ea3ng m\u00e0u c\u00e2n b\u1eb1ng, t\u00f4 \u0111\u1eadm c\u1eeda s\u1ed5 \u0111ang ch\u1ecdn (m\u1eb7c \u0111\u1ecbnh).",
+        "context": "Balanced palette with focused accents (default).",
+        "term_plural": "",
+        "reference": "Common\/Theme.qml:476",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Bottom",
+        "definition": "N\u00fat",
+        "context": "Bottom",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/ThemeColorsTab.qml:1728, Modules\/Settings\/ThemeColorsTab.qml:1738, Modules\/Settings\/ThemeColorsTab.qml:1751, Modules\/Settings\/DockTab.qml:102, Modules\/Settings\/DankBarTab.qml:286, Modules\/Settings\/DankBarTab.qml:435, Modules\/Settings\/DankBarTab.qml:1452, Modules\/Settings\/DankBarTab.qml:1460, Modules\/Settings\/DankBarTab.qml:1474",
+        "comment": "shadow direction option",
+        "fuzzy": 0
+    },
+    {
+        "term": "Bottom Section",
+        "definition": "Ph\u1ea7n n\u00fat",
+        "context": "Bottom Section",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:1107",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Bottom dock for pinned and running applications",
+        "definition": "Thanh dock d\u01b0\u1edbi hi\u1ec3n th\u1ecb \u1ee9ng d\u1ee5ng \u0111\u00e3 ghim v\u00e0 \u0111ang ch\u1ea1y",
+        "context": "Bottom dock for pinned and running applications",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DisplayWidgetsTab.qml:32",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Derives colors that closely match the underlying image.",
+        "definition": "L\u1ea5y m\u00e0u ph\u00f9 h\u1ee3p v\u1edbi \u1ea3nh n\u1ec1n.",
+        "context": "Derives colors that closely match the underlying image.",
+        "term_plural": "",
+        "reference": "Common\/Theme.qml:484",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Desktop background images",
+        "definition": "\u1ea2nh n\u1ec1n m\u00e0n h\u00ecnh",
+        "context": "Desktop background images",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DisplayWidgetsTab.qml:44",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Display application icons in workspace indicators",
+        "definition": "Hi\u1ec3n th\u1ecb bi\u1ec3u t\u01b0\u1ee3ng \u1ee9ng d\u1ee5ng tr\u00ean ch\u1ec9 b\u00e1o kh\u00f4ng gian l\u00e0m vi\u1ec7c",
+        "context": "Display application icons in workspace indicators",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WorkspacesTab.qml:60",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Diverse palette spanning the full spectrum.",
+        "definition": "B\u1ea3ng m\u00e0u \u0111a d\u1ea1ng, tr\u1ea3i r\u1ed9ng to\u00e0n b\u1ed9 d\u1ea3i m\u00e0u.",
+        "context": "Diverse palette spanning the full spectrum.",
+        "term_plural": "",
+        "reference": "Common\/Theme.qml:508",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "High-fidelity palette that preserves source hues.",
+        "definition": "B\u1ea3ng m\u00e0u trung th\u1ef1c, gi\u1eef nguy\u00ean m\u00e0u g\u1ed1c.",
+        "context": "High-fidelity palette that preserves source hues.",
+        "term_plural": "",
+        "reference": "Common\/Theme.qml:492",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Last launched %1",
+        "definition": "M\u1edf g\u1ea7n \u0111\u00e2y: %1",
+        "context": "Last launched %1",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/LauncherTab.qml:1270",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Last launched just now",
+        "definition": "V\u1eeba m\u1edf xong",
+        "context": "Last launched just now",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/LauncherTab.qml:1263",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Left Section",
+        "definition": "Ph\u1ea7n b\u00ean tr\u00e1i",
+        "context": "Left Section",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetsTab.qml:967",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Show workspace index numbers in the top bar workspace switcher",
+        "definition": "Hi\u1ec3n th\u1ecb s\u1ed1 th\u1ee9 t\u1ef1 kh\u00f4ng gian l\u00e0m vi\u1ec7c tr\u00ean n\u00fat chuy\u1ec3n \u0111\u1ed5i kh\u00f4ng gian l\u00e0m vi\u1ec7c trong thanh tr\u00ean",
+        "context": "Show workspace index numbers in the top bar workspace switcher",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WorkspacesTab.qml:33",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Disconnected from WiFi",
+        "definition": "Ng\u1eaft k\u1ebft n\u1ed1i WiFi",
+        "context": "Disconnected from WiFi",
+        "term_plural": "",
+        "reference": "Services\/DMSNetworkService.qml:480",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Failed to disconnect WiFi",
+        "definition": "Kh\u00f4ng th\u1ec3 ng\u1eaft k\u1ebft n\u1ed1i WiFi",
+        "context": "Failed to disconnect WiFi",
+        "term_plural": "",
+        "reference": "Services\/DMSNetworkService.qml:478",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Failed to enable WiFi",
+        "definition": "Kh\u00f4ng th\u1ec3 b\u1eadt WiFi",
+        "context": "Failed to enable WiFi",
+        "term_plural": "",
+        "reference": "Services\/DMSNetworkService.qml:581",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Incorrect password",
+        "definition": "Sai m\u1eadt kh\u1ea9u",
+        "context": "Incorrect password",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:369, Modules\/Greetd\/GreeterContent.qml:245",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "WiFi disabled",
+        "definition": "\u0110\u00e3 t\u1eaft WiFi",
+        "context": "WiFi disabled",
+        "term_plural": "",
+        "reference": "Services\/DMSNetworkService.qml:571",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "WiFi enabled",
+        "definition": "\u0110\u00e3 b\u1eadt WiFi",
+        "context": "WiFi enabled",
+        "term_plural": "",
+        "reference": "Services\/DMSNetworkService.qml:571, Services\/DMSNetworkService.qml:583",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Dismiss",
+        "definition": "\u0110\u00f3ng",
+        "context": "Dismiss",
+        "term_plural": "",
+        "reference": "Modules\/Notifications\/Popup\/NotificationPopup.qml:35, Modules\/Notifications\/Popup\/NotificationPopup.qml:1142, Modules\/Notifications\/Center\/NotificationCard.qml:759, Modules\/Notifications\/Center\/NotificationCard.qml:897, Modules\/Notifications\/Center\/NotificationCard.qml:1042",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Enter PIN for ",
+        "definition": "Nh\u1eadp PIN cho ",
+        "context": "Enter PIN for ",
+        "term_plural": "",
+        "reference": "Modals\/BluetoothPairingModal.qml:137, Modals\/WifiPasswordModal.qml:351",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Connect to VPN",
+        "definition": "K\u1ebft n\u1ed1i VPN",
+        "context": "Connect to VPN",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:334",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Lock",
+        "definition": "Kh\u00f3a",
+        "context": "Lock",
+        "term_plural": "",
+        "reference": "Modals\/PowerMenuModal.qml:198, Modules\/Settings\/PowerSleepTab.qml:411",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Customize which actions appear in the power menu",
+        "definition": "Ch\u1ecdn c\u00e1c h\u00e0nh \u0111\u1ed9ng hi\u1ec3n th\u1ecb trong tr\u00ecnh \u0111\u01a1n ngu\u1ed3n",
+        "context": "Customize which actions appear in the power menu",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PowerSleepTab.qml:390",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Restart DMS",
+        "definition": "Kh\u1edfi \u0111\u1ed9ng l\u1ea1i DMS",
+        "context": "Restart DMS",
+        "term_plural": "",
+        "reference": "Modals\/PowerMenuModal.qml:216, Modules\/Settings\/PowerSleepTab.qml:411",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Restart the DankMaterialShell",
+        "definition": "Kh\u1edfi \u0111\u1ed9ng l\u1ea1i DankMaterialShell",
+        "context": "Restart the DankMaterialShell",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PowerSleepTab.qml:464",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Show Reboot",
+        "definition": "Hi\u1ec3n th\u1ecb kh\u1edfi \u0111\u1ed9ng l\u1ea1i",
+        "context": "Show Reboot",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PowerSleepTab.qml:443",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Save password",
+        "definition": "L\u01b0u m\u1eadt kh\u1ea9u",
+        "context": "Save password",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:664",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Add Widget to %1 Section",
+        "definition": "Th\u00eam ti\u1ec7n \u00edch v\u00e0o m\u1ee5c %1",
+        "context": "Add Widget to %1 Section",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetSelectionPopup.qml:226",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Anonymous Identity",
+        "definition": "ID \u1ea9n danh",
+        "context": "Anonymous Identity",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:186",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Certificate Password",
+        "definition": "M\u1eadt kh\u1ea9u ch\u1ee9ng ch\u1ec9",
+        "context": "Certificate Password",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:177",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Hold to Confirm Power Actions",
+        "definition": "Gi\u1eef \u0111\u1ec3 x\u00e1c nh\u1eadn h\u00e0nh \u0111\u1ed9ng ngu\u1ed3n",
+        "context": "Hold to Confirm Power Actions",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PowerSleepTab.qml:505",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Hold to confirm (%1s)",
+        "definition": "Gi\u1eef \u0111\u1ec3 x\u00e1c nh\u1eadn (%1s)",
+        "context": "Hold to confirm (%1s)",
+        "term_plural": "",
+        "reference": "Modals\/PowerMenuModal.qml:796, Modals\/PowerMenuModal.qml:800, Modules\/Lock\/LockPowerMenu.qml:804, Modules\/Lock\/LockPowerMenu.qml:808",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "PIN",
+        "definition": "PIN",
+        "context": "PIN",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:182",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Private Key Password",
+        "definition": "M\u1eadt kh\u1ea9u kh\u00f3a ri\u00eang t\u01b0",
+        "context": "Private Key Password",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:179",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Search widgets...",
+        "definition": "T\u00ecm ti\u1ec7n \u00edch...",
+        "context": "Search widgets...",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetSelectionPopup.qml:292, Modules\/Settings\/DesktopWidgetBrowser.qml:287",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Select a widget to add. You can add multiple instances of the same widget if needed.",
+        "definition": "Ch\u1ecdn ti\u1ec7n \u00edch - m\u1ed9t ti\u1ec7n \u00edch c\u00f3 th\u1ec3 th\u00eam nhi\u1ec1u l\u1ea7n",
+        "context": "Select a widget to add. You can add multiple instances of the same widget if needed.",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WidgetSelectionPopup.qml:270",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "VPN Password",
+        "definition": "M\u1eadt kh\u1ea9u VPN",
+        "context": "VPN Password",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:250",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Wi-Fi Password",
+        "definition": "M\u1eadt kh\u1ea9u WiFi",
+        "context": "Wi-Fi Password",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:253",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "WiFi",
+        "definition": "WiFi",
+        "context": "WiFi",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/NetworkTab.qml:213, Modules\/Settings\/NetworkTab.qml:260, Modules\/Settings\/NetworkTab.qml:810, Modules\/ControlCenter\/Details\/NetworkDetail.qml:136",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "WiFi Device",
+        "definition": "Thi\u1ebft b\u1ecb WiFi",
+        "context": "WiFi Device",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/NetworkTab.qml:868, Modules\/Settings\/NetworkTab.qml:900",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "File",
+        "definition": "T\u1ec7p",
+        "context": "File",
+        "term_plural": "",
+        "reference": "Services\/CupsService.qml:137, Modals\/DankLauncherV2\/ResultItem.qml:215",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Custom Reboot Command",
+        "definition": "T\u00f9y ch\u1ec9nh l\u1ec7nh kh\u1edfi \u0111\u1ed9ng l\u1ea1i",
+        "context": "Custom Reboot Command",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/PowerSleepTab.qml:567",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Hold to confirm (%1 ms)",
+        "definition": "Gi\u1eef \u0111\u1ec3 x\u00e1c nh\u1eadn (%1 ms)",
+        "context": "Hold to confirm (%1 ms)",
+        "term_plural": "",
+        "reference": "Modals\/PowerMenuModal.qml:795, Modals\/PowerMenuModal.qml:799, Modules\/Lock\/LockPowerMenu.qml:803, Modules\/Lock\/LockPowerMenu.qml:807",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Disabling WiFi...",
+        "definition": "\u0110ang t\u1eaft WiFi...",
+        "context": "Disabling WiFi...",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Details\/NetworkDetail.qml:192, Modules\/ControlCenter\/Components\/DragDropGrid.qml:295",
+        "comment": "network status",
+        "fuzzy": 0
+    },
+    {
+        "term": "Enabling WiFi...",
+        "definition": "\u0110ang b\u1eadt WiFi...",
+        "context": "Enabling WiFi...",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Details\/NetworkDetail.qml:192, Modules\/ControlCenter\/Components\/DragDropGrid.qml:295",
+        "comment": "network status",
+        "fuzzy": 0
+    },
+    {
+        "term": "Group repeated application icons in unfocused workspaces",
+        "definition": "Nh\u00f3m c\u00e1c bi\u1ec3u t\u01b0\u1ee3ng \u1ee9ng d\u1ee5ng tr\u00f9ng l\u1eb7p trong c\u00e1c kh\u00f4ng gian l\u00e0m vi\u1ec7c \u0111ang kh\u00f4ng ch\u1ecdn",
+        "context": "Group repeated application icons in unfocused workspaces",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WorkspacesTab.qml:122",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Smartcard Authentication",
+        "definition": "X\u00e1c th\u1ef1c th\u1ebb th\u00f4ng minh",
+        "context": "Smartcard Authentication",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:332",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Smartcard PIN",
+        "definition": "PIN th\u1ebb th\u00f4ng minh",
+        "context": "Smartcard PIN",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:248",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Connect to Hidden Network",
+        "definition": "K\u1ebft n\u1ed1i m\u1ea1ng \u1ea9n",
+        "context": "Connect to Hidden Network",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:336",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Enter network name and password",
+        "definition": "Nh\u1eadp t\u00ean v\u00e0 mk m\u1ea1ng \u1ea9n",
+        "context": "Enter network name and password",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:357",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Hidden Network",
+        "definition": "M\u1ea1ng \u1ea9n",
+        "context": "Hidden Network",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:252",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Network Name (SSID)",
+        "definition": "T\u00ean m\u1ea1ng (SSID)",
+        "context": "Network Name (SSID)",
+        "term_plural": "",
+        "reference": "Modals\/WifiPasswordModal.qml:420",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Focused Border",
+        "definition": "Vi\u1ec1n c\u1eeda s\u1ed5 \u0111ang ch\u1ecdn",
+        "context": "Focused Border",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WorkspacesTab.qml:354",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Focused Color",
+        "definition": "M\u00e0u c\u1eeda s\u1ed5 \u0111ang ch\u1ecdn",
+        "context": "Focused Color",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WorkspacesTab.qml:196",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Show an outline ring around the focused workspace indicator",
+        "definition": "Hi\u1ec3n th\u1ecb vi\u1ec1n v\u00f2ng quanh kh\u00f4ng gian l\u00e0m vi\u1ec7c \u0111ang ch\u1ecdn",
+        "context": "Show an outline ring around the focused workspace indicator",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WorkspacesTab.qml:355",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Show workspaces of the currently focused monitor",
+        "definition": "Hi\u1ec3n th\u1ecb kh\u00f4ng gian l\u00e0m vi\u1ec7c c\u1ee7a m\u00e0n h\u00ecnh \u0111ang ch\u1ecdn",
+        "context": "Show workspaces of the currently focused monitor",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WorkspacesTab.qml:142",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Unfocused Color",
+        "definition": "M\u00e0u c\u1eeda s\u1ed5 \u0111ang kh\u00f4ng ch\u1ecdn",
+        "context": "Unfocused Color",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WorkspacesTab.qml:276",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "nav",
+        "definition": "\u0111i\u1ec1u h\u01b0\u1edbng",
+        "context": "nav",
+        "term_plural": "",
+        "reference": "Modals\/DankLauncherV2\/LauncherContent.qml:418",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "open",
+        "definition": "m\u1edf",
+        "context": "open",
+        "term_plural": "",
+        "reference": "Modals\/DankLauncherV2\/LauncherContent.qml:425",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "WiFi off",
+        "definition": "WiFi \u0111\u00e3 t\u1eaft",
+        "context": "WiFi off",
+        "term_plural": "",
+        "reference": "Modules\/ControlCenter\/Components\/DragDropGrid.qml:310",
+        "comment": "network status",
+        "fuzzy": 0
+    },
+    {
+        "term": "Save QR Code",
+        "definition": "L\u01b0u QR",
+        "context": "Save QR Code",
+        "term_plural": "",
+        "reference": "Modals\/WifiQRCodeModal.qml:81",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "WiFi QR code for ",
+        "definition": "QR WiFi cho ",
+        "context": "WiFi QR code for ",
+        "term_plural": "",
+        "reference": "Modals\/WifiQRCodeModal.qml:125",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Focused Monitor Only",
+        "definition": "Ch\u1ec9 m\u00e0n h\u00ecnh \u0111ang ch\u1ecdn",
+        "context": "Focused Monitor Only",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/NotificationsTab.qml:297",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Focused monitor only",
+        "definition": "Ch\u1ec9 m\u00e0n h\u00ecnh \u0111ang ch\u1ecdn",
+        "context": "Focused monitor only",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DisplayWidgetsTab.qml:422",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Highlight the currently focused app inside workspace indicators",
+        "definition": "L\u00e0m n\u1ed5i b\u1eadt \u1ee9ng d\u1ee5ng \u0111ang \u0111\u01b0\u1ee3c ch\u1ecdn trong ch\u1ec9 b\u00e1o kh\u00f4ng gian l\u00e0m vi\u1ec7c",
+        "context": "Highlight the currently focused app inside workspace indicators",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/WorkspacesTab.qml:132",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Show notification popups only on the currently focused monitor",
+        "definition": "Ch\u1ec9 hi\u1ec7n th\u00f4ng b\u00e1o n\u1ed5i tr\u00ean m\u00e0n h\u00ecnh \u0111ang ch\u1ecdn",
+        "context": "Show notification popups only on the currently focused monitor",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/NotificationsTab.qml:298",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Show notifications only on the currently focused monitor",
+        "definition": "Ch\u1ec9 hi\u1ec7n th\u00f4ng b\u00e1o tr\u00ean m\u00e0n h\u00ecnh \u0111ang ch\u1ecdn",
+        "context": "Show notifications only on the currently focused monitor",
+        "term_plural": "",
+        "reference": "Modules\/Settings\/DisplayWidgetsTab.qml:423",
+        "comment": "",
+        "fuzzy": 0
+    }
+]
